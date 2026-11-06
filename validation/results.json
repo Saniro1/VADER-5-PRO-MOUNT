@@ -1,0 +1,151 @@
+{
+  "units": "mm",
+  "physical_test_fit": false,
+  "controller_mesh_available": false,
+  "meshes": {
+    "mount": {
+      "watertight": true,
+      "consistent_winding": true,
+      "components": 1,
+      "faces": 4124,
+      "volume_mm3": 4091.8487161203793,
+      "bounds_mm": [
+        [
+          -17.600000381469727,
+          -13.080499649047852,
+          -2.6849899291992188
+        ],
+        [
+          17.600000381469727,
+          13.199999809265137,
+          11.850000381469727
+        ]
+      ]
+    },
+    "receiver_coupon": {
+      "watertight": true,
+      "consistent_winding": true,
+      "components": 1,
+      "faces": 120,
+      "volume_mm3": 1857.3568246806744,
+      "bounds_mm": [
+        [
+          -10.25,
+          -12.600000381469727,
+          0.0
+        ],
+        [
+          10.25,
+          13.199999809265137,
+          4.849999904632568
+        ]
+      ]
+    },
+    "box2": {
+      "watertight": true,
+      "consistent_winding": true,
+      "components": 1,
+      "faces": 176,
+      "volume_mm3": 8705.1709296968,
+      "bounds_mm": [
+        [
+          -14.85,
+          -17.5,
+          -3.45
+        ],
+        [
+          12.85,
+          12.0,
+          23.5
+        ]
+      ]
+    },
+    "key": {
+      "watertight": true,
+      "consistent_winding": true,
+      "components": 1,
+      "faces": 56,
+      "volume_mm3": 99.40721166666663,
+      "bounds_mm": [
+        [
+          -10.95,
+          10.05,
+          2.0
+        ],
+        [
+          15.4,
+          13.75,
+          5.0
+        ]
+      ]
+    }
+  },
+  "unchanged_shared_parts": {
+    "Box 2.stl": "1e916b5fb075225697175ab12b3e41cfa7cc2952c50c33cb88b48cd524854dc0",
+    "G7_V22_Lock_Key.stl": "d7dd76e6c1b4e7dacb791afaff5eedf79430176db9806a3888cac3b0ec3293b7"
+  },
+  "cover_below_z5_symmetric_difference_mm3": 0.004134709093558323,
+  "cover_comparison_tolerance_mm3": 0.01,
+  "key_mount_overlap_mm3": 0.0,
+  "assembly": {
+    "usb_down": {
+      "box_mount_mm3": 0.0,
+      "box_key_mm3": 0.0,
+      "slide_sweep_max_overlap_mm3": 0.0,
+      "bed_blocks_0p01mm_down_mm3": 2.7829982925402867,
+      "slide_sweep": {
+        "axis": "+Y",
+        "range_mm": [
+          0,
+          40
+        ],
+        "step_mm": 0.25,
+        "key_removed": true
+      },
+      "key_blocks_1mm_escape_mm3": 15.589477986728411,
+      "stop_blocks_minus4mm_mm3": 100.27697531984427,
+      "stop_blocks_minus0p5mm_mm3": 7.162641094274591
+    },
+    "usb_up": {
+      "box_mount_mm3": 0.0,
+      "box_key_mm3": 0.0,
+      "slide_sweep_max_overlap_mm3": 0.0,
+      "bed_blocks_0p01mm_down_mm3": 2.7829982925402867,
+      "slide_sweep": {
+        "axis": "+Y",
+        "range_mm": [
+          0,
+          40
+        ],
+        "step_mm": 0.25,
+        "key_removed": true
+      },
+      "key_blocks_1mm_escape_mm3": 15.589477986728411,
+      "stop_blocks_minus4mm_mm3": 100.27697531984427,
+      "stop_blocks_minus0p5mm_mm3": 7.162641094274591
+    }
+  },
+  "nominal_clearances_mm": {
+    "box_floor_to_receiver_lip": 0.25,
+    "rail_bottom_to_bearing_bed": 0.0,
+    "bearing_bed_raise_from_original_floor": 0.41,
+    "tightest_horizontal_flank_gap_per_side": 0.2646855813953488,
+    "tightest_normal_flank_gap_approx": 0.2150766967415335,
+    "rail_end_to_key": 0.25,
+    "rail_end_to_closed_stop": 0.25,
+    "total_fore_aft_play": 0.5,
+    "key_tab_to_box_floor": 0.16
+  },
+  "print_3mf": {
+    "objects": 3,
+    "all_watertight": true,
+    "on_bed": true,
+    "overlap": false
+  },
+  "limits": [
+    "Controller clip dimensions are inherited from the supplied cover, not independently measured.",
+    "No controller mesh, electronics model, physical print or load test is available.",
+    "Collision-free samples and nominal clearances do not guarantee printer or material fit.",
+    "The original key detent requires elastic flex during lateral insertion; not a rigid clearance fit."
+  ]
+}
