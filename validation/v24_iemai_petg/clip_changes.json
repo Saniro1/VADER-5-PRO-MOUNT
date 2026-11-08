@@ -1,0 +1,35 @@
+{
+  "front_feet_y_thickness_scale_at_tip": 0.8,
+  "front_feet_extra_depth_mm": 0.35,
+  "side_hooks_x_thickness_scale_at_tip": 0.82,
+  "side_hooks_extra_depth_mm": 0.4,
+  "center_tab_z_thickness_scale": 0.85,
+  "center_tab_extra_y_reach_mm": 0.4,
+  "center_tab_z_offset_mm": -0.4,
+  "center_tab_width_reduction_mm": 0.3,
+  "original_bounds_mm": [
+    [
+      -17.600000381469727,
+      -13.0805082321167,
+      -2.6849915981292725
+    ],
+    [
+      17.600000381469727,
+      13.0805082321167,
+      6.295257091522217
+    ]
+  ],
+  "revised_bounds_mm": [
+    [
+      -17.600000381469727,
+      -13.480507850646973,
+      -3.034991502761841
+    ],
+    [
+      17.600000381469727,
+      13.0805082321167,
+      6.295257091522217
+    ]
+  ],
+  "physical_controller_fit_tested": false
+}

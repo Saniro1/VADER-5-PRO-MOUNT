@@ -1,4 +1,10 @@
-# Vader 5 Pro detachable Box 2 mount — V23
+# Vader 5 Pro detachable Box 2 mount — V24
+
+**Current PETG project:** [Download V24 for Snapmaker U1 / IEMAI matte black PETG](print/v24_iemai_petg/Vader5Pro_V24_U1_IEMAI_Matte_PETG_Complete.3mf). It includes the corrected box, a matching sliding cap, thinner/longer controller clips, custom supports and a controller-cover fit piece. The separate locking key is removed. [Settings, fitting and support-removal instructions](print/v24_iemai_petg/README.md).
+
+V24 keeps the current box opening size and extends its 20 × 24.5 mm cavity down to the floor. The original male rail stays compatible with the supplied G7 interface. Clip changes and PETG settings still need a physical fit/print trial.
+
+## Previous V23 release — archived
 
 A replacement V2 mounting cover with a slide receiver for the **same detachable G7 Pro V22 Box 2**. Move the box between controllers without changing its enclosure or male rail. Both Box 2 and the removable key are byte-for-byte copies of the supplied G7 parts.
 

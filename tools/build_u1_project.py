@@ -64,7 +64,7 @@ def bottom_heights(mesh, points):
     return z
 
 
-def supports(mesh, name):
+def supports(mesh, name, custom_targets=True):
     lo, hi = mesh.bounds[:, :2]
     xs = np.arange(lo[0]+PITCH/2, hi[0], PITCH)
     ys = np.arange(lo[1]+PITCH/2, hi[1], PITCH)
@@ -120,7 +120,7 @@ def supports(mesh, name):
             print("Invalid support primitive", name, i, m.is_watertight, m.volume, m.bounds, flush=True)
     support = trimesh.boolean.union(bodies+ribs, engine="manifold")
     targeted = []
-    if name == "Vader_Mount":
+    if custom_targets and name == "Vader_Mount":
         # This original cover tab starts above the closed receiver end. A support
         # from the bed directly below it would hit the receiver; three thin,
         # self-supporting arms reach in from outside instead.
