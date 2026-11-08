@@ -1,4 +1,10 @@
-# Vader 5 Pro detachable Box 2 mount — V24
+# Vader 5 Pro detachable Box 2 mount — V25 seating trial
+
+**Latest:** [V25 seating-trial and PETG quality 3MF](print/v25_quality/Vader5Pro_V25_PETG_Seating_Trial_Quality.3mf). It restores original-source clip reach after V24 failed to seat, relieves the cover rim/exterior, and uses five individual plates with 0.12 mm PETG settings, revised retraction/wiping and no timelapse capture commands. **Print plate 1 to check seating before the full mount.** [Details and limits](print/v25_quality/README.md).
+
+No exact OEM cover drawing was found. The owner's 0.91/0.90-inch comparison is approximate, so V25 is a fit trial rather than an OEM-dimension claim.
+
+## V24 — previous revision
 
 **Current PETG project:** [Download V24 for Snapmaker U1 / IEMAI matte black PETG](print/v24_iemai_petg/Vader5Pro_V24_U1_IEMAI_Matte_PETG_Complete.3mf). It includes the corrected box, a matching sliding cap, thinner/longer controller clips, custom supports and a controller-cover fit piece. The separate locking key is removed. [Settings, fitting and support-removal instructions](print/v24_iemai_petg/README.md).
 

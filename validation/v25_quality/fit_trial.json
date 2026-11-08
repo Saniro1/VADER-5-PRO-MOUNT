@@ -1,0 +1,26 @@
+{
+  "status": "approximate-measurement seating trial",
+  "verified_OEM_dimensions_found": false,
+  "measurements_supplied": true,
+  "user_measured_print_chord_inches": 0.91,
+  "user_measured_original_chord_inches": 0.9,
+  "reported_difference_mm": 0.254,
+  "measurement_quality": "Approximate corner-to-corner comparison, axis/datum not established",
+  "physical_fit_tested": false,
+  "original_source_envelope_mm": [
+    35.20000076293945,
+    26.1610164642334,
+    8.98024868965149
+  ],
+  "candidate_envelope_mm": [
+    35.0,
+    26.060507774353027,
+    8.480050325393677
+  ],
+  "shell_exterior_vertical_relief_mm": 0.5,
+  "rim_relief_per_x_edge_mm": 0.1,
+  "positive_y_border_relief_mm": 0.1,
+  "clip_reach": "Original-source reach restored; V24's added 0.35/0.40 mm extensions removed.",
+  "latch_centers": "No global scaling; original nominal lateral centers retained.",
+  "limits": "Photos do not establish millimeter dimensions, seating cause or OEM wall thickness."
+}
