@@ -1,0 +1,181 @@
+{
+  "Vader_Mount": {
+    "support_volume_mm3": 815.2486331910453,
+    "removable_components": 4,
+    "targeted_clip_supports": 4,
+    "minimum_designed_top_gap_mm": 0.24,
+    "rib_width_mm": 0.44,
+    "rib_row_pitch_mm": 2.4,
+    "base_height_mm": 0.36,
+    "pull_tabs_bounds": [
+      [
+        12.849999618530301,
+        -19.140249729156494,
+        16.8499996185303,
+        -14.390249729156494
+      ],
+      [
+        -2.0000003814697127,
+        -19.140249729156494,
+        1.9999996185302873,
+        -14.390249729156494
+      ],
+      [
+        -2.0000003814697127,
+        14.50975027084353,
+        1.9999996185302873,
+        19.140249729156494
+      ],
+      [
+        -23.600000381469727,
+        -3.1402497291564835,
+        -18.850000381469727,
+        0.8597502708435165
+      ]
+    ],
+    "orientation": "180 degrees about X; clips point up",
+    "part_volume_mm3": 4091.848716120379,
+    "part_bounds_mm": [
+      [
+        -17.600000381469727,
+        -13.140249729156494,
+        0.0
+      ],
+      [
+        17.600000381469727,
+        13.140249729156494,
+        14.534990310668949
+      ]
+    ],
+    "plate_center_xy_mm": [
+      105,
+      115
+    ]
+  },
+  "Shared_Box_2": {
+    "support_volume_mm3": 409.46083379267174,
+    "removable_components": 1,
+    "targeted_clip_supports": 4,
+    "minimum_designed_top_gap_mm": 0.24,
+    "rib_width_mm": 0.44,
+    "rib_row_pitch_mm": 2.4,
+    "base_height_mm": 0.36,
+    "pull_tabs_bounds": [
+      [
+        -12.699999999999996,
+        16.100000000000026,
+        -8.699999999999996,
+        20.75
+      ]
+    ],
+    "orientation": "native Z up; dropped to bed",
+    "part_volume_mm3": 8705.170929696802,
+    "part_bounds_mm": [
+      [
+        -13.85,
+        -14.75,
+        0.0
+      ],
+      [
+        13.85,
+        14.75,
+        26.95
+      ]
+    ],
+    "plate_center_xy_mm": [
+      155,
+      115
+    ]
+  },
+  "Lock_Key": {
+    "support_volume_mm3": 41.54798844757877,
+    "removable_components": 1,
+    "targeted_clip_supports": 0,
+    "minimum_designed_top_gap_mm": 0.24,
+    "rib_width_mm": 0.44,
+    "rib_row_pitch_mm": 2.4,
+    "base_height_mm": 0.36,
+    "pull_tabs_bounds": [
+      [
+        -19.175,
+        -2.6999999999999997,
+        -14.425,
+        1.3000000000000003
+      ]
+    ],
+    "orientation": "native Z up; dropped to bed",
+    "part_volume_mm3": 99.40721166666667,
+    "part_bounds_mm": [
+      [
+        -13.175,
+        -1.8499999999999996,
+        0.0
+      ],
+      [
+        13.175,
+        1.8499999999999996,
+        3.0
+      ]
+    ],
+    "plate_center_xy_mm": [
+      103,
+      160
+    ]
+  },
+  "Spare_Lock_Key": {
+    "support_volume_mm3": 41.54798844757877,
+    "removable_components": 1,
+    "targeted_clip_supports": 0,
+    "minimum_designed_top_gap_mm": 0.24,
+    "rib_width_mm": 0.44,
+    "rib_row_pitch_mm": 2.4,
+    "base_height_mm": 0.36,
+    "pull_tabs_bounds": [
+      [
+        -19.175,
+        -2.6999999999999997,
+        -14.425,
+        1.3000000000000003
+      ]
+    ],
+    "orientation": "native Z up; dropped to bed",
+    "part_volume_mm3": 99.40721166666667,
+    "part_bounds_mm": [
+      [
+        -13.175,
+        -1.8499999999999996,
+        0.0
+      ],
+      [
+        13.175,
+        1.8499999999999996,
+        3.0
+      ]
+    ],
+    "plate_center_xy_mm": [
+      147,
+      160
+    ]
+  },
+  "Receiver_Fit_Test": {
+    "support_needed": false,
+    "orientation": "native Z up; dropped to bed",
+    "part_volume_mm3": 1857.3568246806744,
+    "part_bounds_mm": [
+      [
+        -10.25,
+        -12.900000095367432,
+        0.0
+      ],
+      [
+        10.25,
+        12.900000095367432,
+        4.849999904632568
+      ]
+    ],
+    "plate_center_xy_mm": [
+      105,
+      70
+    ]
+  }
+}

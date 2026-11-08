@@ -1,0 +1,102 @@
+{
+  "native_project_reopened": true,
+  "objects": {
+    "Vader_Mount": {
+      "volumes": 2,
+      "max_part_vertex_error_mm": 1.3682141971813892e-06,
+      "part_support_overlap_mm3": 0.0,
+      "bounds_mm": [
+        [
+          81.3999996,
+          95.8597507,
+          0.0
+        ],
+        [
+          123.8500004,
+          134.1402493,
+          14.53499032
+        ]
+      ]
+    },
+    "Shared_Box_2": {
+      "volumes": 2,
+      "max_part_vertex_error_mm": 2.476882434188556e-07,
+      "part_support_overlap_mm3": 0.0,
+      "bounds_mm": [
+        [
+          135.0,
+          99.0,
+          0.0
+        ],
+        [
+          175.0,
+          135.75,
+          26.9500008
+        ]
+      ]
+    },
+    "Lock_Key": {
+      "volumes": 2,
+      "max_part_vertex_error_mm": 4.2327979243993e-08,
+      "part_support_overlap_mm3": 0.0,
+      "bounds_mm": [
+        [
+          83.82500028999999,
+          157.299999952,
+          0.0
+        ],
+        [
+          116.1750002,
+          161.85000002,
+          3.0
+        ]
+      ]
+    },
+    "Spare_Lock_Key": {
+      "volumes": 2,
+      "max_part_vertex_error_mm": 4.2327993424075755e-08,
+      "part_support_overlap_mm3": 0.0,
+      "bounds_mm": [
+        [
+          127.82500028999999,
+          157.299999952,
+          0.0
+        ],
+        [
+          160.1750002,
+          161.85000002,
+          3.0
+        ]
+      ]
+    },
+    "Receiver_Fit_Test": {
+      "volumes": 1,
+      "max_part_vertex_error_mm": 9.629467845379223e-07,
+      "part_support_overlap_mm3": 0.0,
+      "bounds_mm": [
+        [
+          94.75,
+          57.1000004,
+          0.0
+        ],
+        [
+          115.25,
+          82.8999996,
+          4.8499999
+        ]
+      ]
+    }
+  },
+  "positive_volumes": 9,
+  "same_filament_for_all_parts_and_supports": true,
+  "physical_support_removal_tested": false,
+  "verified_settings": {
+    "printer_settings_id": "Snapmaker U1 (0.4 nozzle)",
+    "layer_height": "0.16",
+    "wall_loops": "4",
+    "enable_support": "0",
+    "enable_prime_tower": "0",
+    "curr_bed_type": "Textured PEI Plate",
+    "brim_type": "no_brim"
+  }
+}

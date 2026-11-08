@@ -1,0 +1,29 @@
+{
+  "error_string": "Success.",
+  "export_time": 1,
+  "plate_index": 1,
+  "prepare_time": 0,
+  "return_code": 0,
+  "sliced_plates": [
+    {
+      "id": 1,
+      "sliced_time": 3,
+      "sliced_time_with_cache": 2,
+      "triangle_count": 16202,
+      "warning_message": "It seems object Vader_Mount has floating regions. Please re-orient the object or enable support generation."
+    }
+  ],
+  "slicer_release": "Snapmaker Orca 2.4.1",
+  "slicing_warnings": [
+    "It seems object Lock_Key has floating cantilever. Please re-orient the object or enable support generation.",
+    "It seems object Spare_Lock_Key has floating cantilever. Please re-orient the object or enable support generation.",
+    "It seems object Shared_Box_2 has floating cantilever. Please re-orient the object or enable support generation.",
+    "It seems object Vader_Mount has floating regions. Please re-orient the object or enable support generation."
+  ],
+  "estimated_print_time": "1h 42m 19s",
+  "estimated_filament_g": 18.59,
+  "gcode_path_conflicts_check_completed": true,
+  "published_file_contains_gcode": false,
+  "physical_print_tested": false,
+  "project_sha256": "face5fc4f3405578deb7048dab846a7feefdc4c1d4d9ad0cc6de06e757a5ef71"
+}

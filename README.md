@@ -2,6 +2,8 @@
 
 A replacement V2 mounting cover with a slide receiver for the **same detachable G7 Pro V22 Box 2**. Move the box between controllers without changing its enclosure or male rail. Both Box 2 and the removable key are byte-for-byte copies of the supplied G7 parts.
 
+**Snapmaker U1 print project:** [Download the complete black PLA / 0.4 mm 3MF](print/u1_black_pla/Vader5Pro_V23_U1_Black_PLA_Complete.3mf), with saved printer/material settings, oriented parts, custom peelable supports, a spare key and fit-test receiver. [Print and removal instructions](print/u1_black_pla/README.md).
+
 **Status: mesh-checked prototype; physical Vader fit still needs testing.** The V2 cover came from another maker and is reported to fit by the user. No measured controller interface or controller CAD was supplied. The original cover's controller-facing geometry is preserved within STL export precision; this does not independently prove controller fit.
 
 ![V23 assembly and receiver](preview/V23_Overview.png)
