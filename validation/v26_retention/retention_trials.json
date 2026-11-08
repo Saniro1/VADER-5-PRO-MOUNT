@@ -1,0 +1,51 @@
+{
+  "evidence": "V25 seats better but can be pulled backward and falls off; shell still feels thick.",
+  "diagnosis": "Insufficient catch engagement is plausible; not established from photos alone.",
+  "verified_OEM_dimensions_available": false,
+  "variants": {
+    "A": {
+      "variant": "A",
+      "catch_ridge_height_added_mm": 0.2,
+      "catch_stop_face_forward_shift_mm": 0.08,
+      "top_hook_toe_reach_added_mm": 0.15,
+      "extra_whole_clip_insertion_depth_mm": 0,
+      "extra_shell_exterior_relief_mm": 0.25,
+      "total_shell_relief_from_original_mm": 0.75,
+      "bounds_mm": [
+        [
+          -17.5,
+          -13.0805082321167,
+          -2.6849915981292725
+        ],
+        [
+          17.5,
+          12.878037452697754,
+          5.545058727264404
+        ]
+      ],
+      "physical_fit_verified": false
+    },
+    "B": {
+      "variant": "B",
+      "catch_ridge_height_added_mm": 0.35,
+      "catch_stop_face_forward_shift_mm": 0.15,
+      "top_hook_toe_reach_added_mm": 0.3,
+      "extra_whole_clip_insertion_depth_mm": 0,
+      "extra_shell_exterior_relief_mm": 0.25,
+      "total_shell_relief_from_original_mm": 0.75,
+      "bounds_mm": [
+        [
+          -17.5,
+          -13.0805082321167,
+          -2.6849915981292725
+        ],
+        [
+          17.5,
+          12.878037452697754,
+          5.545058727264404
+        ]
+      ],
+      "physical_fit_verified": false
+    }
+  }
+}

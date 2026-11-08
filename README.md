@@ -1,12 +1,16 @@
-# Vader 5 Pro detachable Box 2 mount — V25 seating trial
+# Vader 5 Pro detachable Box 2 mount — V26 retention trials
 
-**Latest:** [V25 seating-trial and PETG quality 3MF](print/v25_quality/Vader5Pro_V25_PETG_Seating_Trial_Quality.3mf). It restores original-source clip reach after V24 failed to seat, relieves the cover rim/exterior, and uses five individual plates with 0.12 mm PETG settings, revised retraction/wiping and no timelapse capture commands. **Print plate 1 to check seating before the full mount.** [Details and limits](print/v25_quality/README.md).
+**Latest:** [V26 small cover fit-test 3MF](print/v26_retention/Vader5Pro_V26_Cover_Fit_Trials_Only.3mf). The shell is relieved another 0.25 mm and two variants increase local retaining-lip engagement. Start with **cover A, plate 1** before printing a full mount. [Complete seven-plate project](print/v26_retention/Vader5Pro_V26_Retention_Trials_Complete.3mf) · [Settings, changes and fitting instructions](print/v26_retention/README.md).
 
-No exact OEM cover drawing was found. The owner's 0.91/0.90-inch comparison is approximate, so V25 is a fit trial rather than an OEM-dimension claim.
+V25 was reported to seat better but release under a slight backward pull. V26 is a retention trial; physical fit and removal force remain unverified. No exact OEM drawing is available.
+
+## V25 — previous seating trial
+
+[V25 seating and PETG quality project](print/v25_quality/README.md) introduced exterior/rim relief and separate plates. V26 retains its PETG quality settings and box/lid geometry.
 
 ## V24 — previous revision
 
-**Current PETG project:** [Download V24 for Snapmaker U1 / IEMAI matte black PETG](print/v24_iemai_petg/Vader5Pro_V24_U1_IEMAI_Matte_PETG_Complete.3mf). It includes the corrected box, a matching sliding cap, thinner/longer controller clips, custom supports and a controller-cover fit piece. The separate locking key is removed. [Settings, fitting and support-removal instructions](print/v24_iemai_petg/README.md).
+**Archived PETG project:** [Download V24 for Snapmaker U1 / IEMAI matte black PETG](print/v24_iemai_petg/Vader5Pro_V24_U1_IEMAI_Matte_PETG_Complete.3mf). It includes the corrected box, a matching sliding cap, thinner/longer controller clips, custom supports and a controller-cover fit piece. The separate locking key is removed. [Settings, fitting and support-removal instructions](print/v24_iemai_petg/README.md).
 
 V24 keeps the current box opening size and extends its 20 × 24.5 mm cavity down to the floor. The original male rail stays compatible with the supplied G7 interface. Clip changes and PETG settings still need a physical fit/print trial.
 

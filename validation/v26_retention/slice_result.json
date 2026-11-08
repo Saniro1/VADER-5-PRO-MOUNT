@@ -1,0 +1,219 @@
+{
+  "error_string": "Success.",
+  "export_time": 0,
+  "plate_index": 0,
+  "prepare_time": 0,
+  "return_code": 0,
+  "sliced_plates": [
+    {
+      "id": 1,
+      "sliced_time": 0,
+      "sliced_time_with_cache": 0,
+      "triangle_count": 4724,
+      "warning_message": "It seems object Cover_A has floating regions. Please re-orient the object or enable support generation."
+    },
+    {
+      "id": 2,
+      "sliced_time": 1,
+      "sliced_time_with_cache": 0,
+      "triangle_count": 4880,
+      "warning_message": "It seems object Cover_B has floating regions. Please re-orient the object or enable support generation."
+    },
+    {
+      "id": 3,
+      "sliced_time": 4,
+      "sliced_time_with_cache": 3,
+      "triangle_count": 5626,
+      "warning_message": "It seems object Mount_A has floating regions. Please re-orient the object or enable support generation."
+    },
+    {
+      "id": 4,
+      "sliced_time": 3,
+      "sliced_time_with_cache": 2,
+      "triangle_count": 5760,
+      "warning_message": "It seems object Mount_B has floating regions. Please re-orient the object or enable support generation."
+    },
+    {
+      "id": 5,
+      "sliced_time": 2,
+      "sliced_time_with_cache": 2,
+      "triangle_count": 1326,
+      "warning_message": "It seems object Shared_Box_2 has floating cantilever. Please re-orient the object or enable support generation."
+    },
+    {
+      "id": 6,
+      "sliced_time": 0,
+      "sliced_time_with_cache": 0,
+      "triangle_count": 84,
+      "warning_message": ""
+    },
+    {
+      "id": 7,
+      "sliced_time": 1,
+      "sliced_time_with_cache": 1,
+      "triangle_count": 44,
+      "warning_message": ""
+    }
+  ],
+  "slicer_release": "Snapmaker Orca 2.4.1",
+  "plate_details": [
+    {
+      "plate": 1,
+      "object": "Cover_A",
+      "estimated_time": "23m 50s",
+      "estimated_filament_g": 2.24,
+      "extruding_moves_checked": 10105,
+      "extrusion_bounds_mm": [
+        [
+          116.456,
+          120.981,
+          0.2
+        ],
+        [
+          158.288,
+          153.783,
+          8.24
+        ]
+      ],
+      "one_object_per_plate": true,
+      "timelapse_commands_present": false,
+      "wipe_and_70pct_retraction_seen": true
+    },
+    {
+      "plate": 2,
+      "object": "Cover_B",
+      "estimated_time": "23m 49s",
+      "estimated_filament_g": 2.25,
+      "extruding_moves_checked": 10165,
+      "extrusion_bounds_mm": [
+        [
+          116.456,
+          120.981,
+          0.2
+        ],
+        [
+          158.288,
+          153.783,
+          8.24
+        ]
+      ],
+      "one_object_per_plate": true,
+      "timelapse_commands_present": false,
+      "wipe_and_70pct_retraction_seen": true
+    },
+    {
+      "plate": 3,
+      "object": "Mount_A",
+      "estimated_time": "56m 19s",
+      "estimated_filament_g": 4.95,
+      "extruding_moves_checked": 23481,
+      "extrusion_bounds_mm": [
+        [
+          111.72,
+          116.08,
+          0.2
+        ],
+        [
+          158.288,
+          153.925,
+          14.48
+        ]
+      ],
+      "one_object_per_plate": true,
+      "timelapse_commands_present": false,
+      "wipe_and_70pct_retraction_seen": true
+    },
+    {
+      "plate": 4,
+      "object": "Mount_B",
+      "estimated_time": "56m 19s",
+      "estimated_filament_g": 4.95,
+      "extruding_moves_checked": 23588,
+      "extrusion_bounds_mm": [
+        [
+          111.72,
+          116.08,
+          0.2
+        ],
+        [
+          158.288,
+          153.925,
+          14.48
+        ]
+      ],
+      "one_object_per_plate": true,
+      "timelapse_commands_present": false,
+      "wipe_and_70pct_retraction_seen": true
+    },
+    {
+      "plate": 5,
+      "object": "Shared_Box_2",
+      "estimated_time": "1h 26m 47s",
+      "estimated_filament_g": 8.37,
+      "extruding_moves_checked": 27035,
+      "extrusion_bounds_mm": [
+        [
+          115.212,
+          119.21,
+          0.2
+        ],
+        [
+          154.78,
+          155.53,
+          26.96
+        ]
+      ],
+      "one_object_per_plate": true,
+      "timelapse_commands_present": false,
+      "wipe_and_70pct_retraction_seen": true
+    },
+    {
+      "plate": 6,
+      "object": "Sliding_Cap",
+      "estimated_time": "36m 22s",
+      "estimated_filament_g": 2.14,
+      "extruding_moves_checked": 13375,
+      "extrusion_bounds_mm": [
+        [
+          117.136,
+          129.611,
+          0.2
+        ],
+        [
+          152.864,
+          140.389,
+          30.08
+        ]
+      ],
+      "one_object_per_plate": true,
+      "timelapse_commands_present": false,
+      "wipe_and_70pct_retraction_seen": true
+    },
+    {
+      "plate": 7,
+      "object": "Optional_Stringing_Test",
+      "estimated_time": "22m 33s",
+      "estimated_filament_g": 1.1,
+      "extruding_moves_checked": 6006,
+      "extrusion_bounds_mm": [
+        [
+          115.21,
+          129.21,
+          0.2
+        ],
+        [
+          154.79,
+          140.79,
+          15.8
+        ]
+      ],
+      "one_object_per_plate": true,
+      "timelapse_commands_present": false,
+      "wipe_and_70pct_retraction_seen": true
+    }
+  ],
+  "physical_print_tested": false,
+  "exact_OEM_fit_verified": false,
+  "published_file_contains_gcode": false,
+  "project_sha256": "5c0bb406d192e96c7c1cf09238d137d756d692bd1651b0bd9528eacef6b7401f"
+}
