@@ -1,0 +1,74 @@
+{
+  "physical_print_tested": false,
+  "range_mm": [
+    0,
+    80
+  ],
+  "graduation_mm": 1,
+  "inside_reading_correction_mm": 2,
+  "assembly_overlap_max_mm3": 0.0,
+  "layout": {
+    "Caliper_Beam": {
+      "xy": [
+        110,
+        105
+      ],
+      "bounds": [
+        [
+          -62.0,
+          -24.5,
+          0.0
+        ],
+        [
+          62.0,
+          24.5,
+          5.0
+        ]
+      ]
+    },
+    "Caliper_Slider": {
+      "xy": [
+        100,
+        180
+      ],
+      "bounds": [
+        [
+          -10.0,
+          -24.5,
+          0.0
+        ],
+        [
+          10.0,
+          24.5,
+          6.399999618530273
+        ]
+      ]
+    },
+    "Check_Gauge_40_20": {
+      "xy": [
+        170,
+        180
+      ],
+      "bounds": [
+        [
+          -20.0,
+          -10.0,
+          0.0
+        ],
+        [
+          20.0,
+          10.0,
+          3.1999998092651367
+        ]
+      ]
+    }
+  },
+  "revision": "R2",
+  "side_clearance_each_mm": 0.4,
+  "vertical_clearance_each_mm": 0.45,
+  "channel_width_mm": 12.8,
+  "channel_height_mm": 4.1,
+  "flared_entrances": true,
+  "original_beam_and_gauge_byte_identical": true,
+  "measurement_contact_regions_unchanged": true
+}

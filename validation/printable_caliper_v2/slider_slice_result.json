@@ -1,0 +1,47 @@
+{
+  "error_string": "Success.",
+  "export_time": 0,
+  "plate_index": 0,
+  "prepare_time": 0,
+  "return_code": 0,
+  "sliced_plates": [
+    {
+      "id": 1,
+      "sliced_time": 1,
+      "sliced_time_with_cache": 1,
+      "triangle_count": 100,
+      "warning_message": ""
+    }
+  ],
+  "slicer_release": "Snapmaker Orca 2.4.1",
+  "plate_details": [
+    {
+      "plate": 1,
+      "objects": [
+        "Caliper_Slider"
+      ],
+      "estimated_time": "17m 46s",
+      "estimated_filament_g": 1.88,
+      "extruding_moves_checked": 5693,
+      "extrusion_bounds_mm": [
+        [
+          122.386,
+          107.886,
+          0.2
+        ],
+        [
+          147.614,
+          162.114,
+          6.44
+        ]
+      ],
+      "one_slider_on_one_plate": true,
+      "timelapse_commands_present": false,
+      "wipe_and_70pct_retraction_seen": true
+    }
+  ],
+  "physical_print_tested": false,
+  "exact_OEM_fit_verified": false,
+  "published_file_contains_gcode": false,
+  "project_sha256": "e1e9b7e8bd2e109c17615b0633e208af028ac48c0c856237260ddc441da403d9"
+}

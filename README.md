@@ -104,4 +104,4 @@ All supplied ZIP contents are preserved under [`originals/`](originals/), includ
 
 ## Printable measuring aid
 
-[80 mm sliding caliper — one-plate U1 black PLA project](print/printable_caliper/README.md). Two-piece slider plus check gauge; 1 mm markings. Useful for rough measurements, with accuracy checked against a real ruler. It does not establish submillimeter OEM hook dimensions.
+[80 mm sliding caliper R2 — looser replacement slider and complete U1 PLA project](print/printable_caliper_v2/README.md). Two-piece slider plus check gauge; 1 mm markings. Useful for rough measurements, with accuracy checked against a real ruler. It does not establish submillimeter OEM hook dimensions.

@@ -1,5 +1,7 @@
 # Printable 80 mm sliding caliper — U1 black PLA
 
+**Updated R2 slider:** the original slider was reported too tight. [Print the looser replacement only](../printable_caliper_v2/Caliper_R2_Replacement_Slider_U1_PLA.3mf), reusing this beam and gauge. [Changes and fitting instructions](../printable_caliper_v2/README.md).
+
 [Download one-plate 3MF](Printable_Caliper_80mm_U1_Black_PLA.3mf) · [Beam STL](Caliper_Beam.stl) · [Slider STL](Caliper_Slider.stl) · [Check gauge STL](Check_Gauge_40_20.stl) · [Editable OpenSCAD](../../source/printable_caliper/Caliper_80mm.scad)
 
 An original two-piece sliding measuring aid for rough controller-cap dimensions. Range **0–80 mm**, engraved **1 mm graduations**, outside jaws and inside tips. No screws or other hardware. The included third piece is a printed check gauge.

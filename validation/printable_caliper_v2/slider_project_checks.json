@@ -1,0 +1,22 @@
+{
+  "Caliper_Slider": {
+    "bounds_mm": [
+      [
+        125.0,
+        110.5,
+        0.0
+      ],
+      [
+        145.0,
+        159.5,
+        6.4000001
+      ]
+    ],
+    "brim_and_support_footprint_clear": true,
+    "geometry_matches_V32": true
+  },
+  "plate_count": 1,
+  "functional_part_count": 1,
+  "print_sequence": "by layer",
+  "physical_print_tested": false
+}
