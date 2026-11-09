@@ -1,4 +1,8 @@
-# Vader 5 Pro detachable Box 2 mount — V34 reinforced hook shoulders
+# Vader 5 Pro detachable Box 2 mount — V35 wider retaining hooks
+
+**Latest:** [V35 small PLA cover test](print/v35_pla/Vader5Pro_V35_PLA_Wider_Hooks_Test.3mf) widens the opposite-edge hooks to 6 mm, increases necks to 1.6 mm and adds larger braces while keeping tip reach and insertion depth. [All parts on one plate](print/v35_pla/Vader5Pro_V35_All_Parts_One_Plate_PLA.3mf) · [Changes and side-print instructions](print/v35_pla/README.md). Physical clearance, retention and strength remain unverified.
+
+## V34 — previous reinforced hook trial
 
 **Latest:** [V34 small PLA cover test](print/v34_pla/Vader5Pro_V34_PLA_Reinforced_Hooks_Test.3mf) gives the opposite-edge pair deeper retaining shoulders, thicker necks and root gussets. Cover and mount print on their sides for clearer hook contours. The measured shell and middle clip remain. [All parts on one plate](print/v34_pla/Vader5Pro_V34_All_Parts_One_Plate_PLA.3mf) · [Changes and print instructions](print/v34_pla/README.md). Fit and strength remain physically unverified.
 

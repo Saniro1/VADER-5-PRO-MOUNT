@@ -1,0 +1,18 @@
+{
+  "baseline": "V34",
+  "target_pair": "opposite edge from middle clip",
+  "hook_width_mm": 6,
+  "previous_hook_width_mm": 5,
+  "neck_Y_thickness_mm": 1.6,
+  "previous_neck_Y_thickness_mm": 1.2,
+  "retaining_shoulder_projection_mm": 1.259637641906739,
+  "gusset_width_mm": 0.8,
+  "gussets_each_hook": 2,
+  "tip_reach_mm": 4,
+  "lowest_Z_mm": -2.685,
+  "entry_chamfer_mm": 0.12,
+  "outside_modified_region_max_sampled_surface_error_mm": 0.004207330908920476,
+  "shell_35x21_middle_5x5_overall_26_preserved": true,
+  "controller_slot_clearance_measured": false,
+  "physical_fit_or_strength_verified": false
+}

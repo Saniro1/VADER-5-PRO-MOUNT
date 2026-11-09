@@ -1,0 +1,19 @@
+{
+  "error_string": "Success.",
+  "export_time": 0,
+  "plate_index": 0,
+  "prepare_time": 0,
+  "return_code": 0,
+  "sliced_plates": [
+    {
+      "id": 1,
+      "sliced_time": 2,
+      "sliced_time_with_cache": 1,
+      "triangle_count": 3906,
+      "warning_message": ""
+    }
+  ],
+  "estimated_time": "43m 33s",
+  "physical_print_tested": false,
+  "project_sha256": "17fba074d3f5a9dd6bd18ff50b10f22a9be2c4ed50cabec1aa0b8deac979a286"
+}
