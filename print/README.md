@@ -1,5 +1,7 @@
 # Current print files
 
+**Latest: [V29 longer middle clip / Snapmaker PLA](v29_pla/README.md).** Extends V28 B’s central tongue 0.40 mm. Start with its single-cover project before the full mount; physical fit unverified.
+
 **Latest requested filament: [V28 regular Snapmaker black PLA](v28_pla/README.md)** for U1 0.4 mm. Use its PLA project rather than the PETG project below. Start with plate 1 / cover A.
 
 **Latest: [V28 underside-clearance trials](v28_seating/README.md).** Print cover A first; B provides greater underside clearance. Both retain V26 A retaining geometry and V27 printing aids. Physical seating remains unverified.

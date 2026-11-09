@@ -1,0 +1,12 @@
+{
+  "baseline": "V28 B",
+  "middle_clip_extra_reach_mm": 0.4,
+  "direction": "negative Y, along existing tongue",
+  "middle_clip_height_or_width_intentionally_changed": false,
+  "other_hooks_intentionally_changed": false,
+  "mesh_simplification_tolerance_mm": 0.004,
+  "physical_fit_verified": false,
+  "OEM_dimensions_verified": false,
+  "unchanged_region_max_sampled_surface_error_mm": 0.007341777750747844,
+  "measured_tip_reach_added_mm": 0.39999961853027344
+}
