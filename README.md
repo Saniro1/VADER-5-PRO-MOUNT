@@ -1,5 +1,7 @@
 # Vader 5 Pro detachable Box 2 mount — V31 longer top clips
 
+**All parts in one print:** [V31 one-plate PLA 3MF](print/v31_pla/Vader5Pro_V31_All_Parts_One_Plate_PLA.3mf) arranges the full mount, Box 2 and sliding lid with supports on one U1 plate, printed by layer. Open as a project in Snapmaker Orca.
+
 **Latest:** [V31 single-cover PLA test](print/v31_pla/Vader5Pro_V31_PLA_Larger_Top_Clips_Test.3mf) adds another 0.20 mm of top-hook toe reach after V30 felt better but still released. The improved middle tongue and print settings remain. [Matching complete project and instructions](print/v31_pla/README.md). Physical retention remains unverified.
 
 ## V30 — previous top-clip trial

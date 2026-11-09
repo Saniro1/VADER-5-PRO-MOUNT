@@ -1,5 +1,7 @@
 # V31 — slightly larger top clips / Snapmaker black PLA
 
+**Print all functional parts in one job:** [single-plate mount + Box 2 + sliding lid 3MF](Vader5Pro_V31_All_Parts_One_Plate_PLA.3mf). All three parts and their custom supports are on one plate, printed by layer with the same saved U1 0.4 mm / regular Snapmaker black PLA settings. No test cover or calibration object is needed for the assembly. Open as a project and slice/print plate 1. The three parts, supports and 5 mm brims have separate footprints within the U1 bed. One-plate printing adds travel between objects, so stringing can differ from the older separate-plate projects. [Layout checks](../../validation/v31_pla/one_plate_checks.json) · [Slice checks](../../validation/v31_pla/one_plate_slice_result.json).
+
 [Single-cover test 3MF](Vader5Pro_V31_PLA_Larger_Top_Clips_Test.3mf) · [Complete five-plate project](Vader5Pro_V31_PLA_Larger_Top_Clips_Complete.3mf)
 
 The owner reports V30 feels better but the top hooks need more length to remain engaged. V31 adds **another 0.20 mm of retaining-toe reach relative to V30**, for a total of **0.40 mm beyond V29**, on both fixed top hooks. This extends the toes along their existing negative-Y direction, without increasing the entire clip's insertion depth. V29's improved middle tongue, including its 0.40 mm extension, remains. Shell, underside clearance, side hooks, box, lid and receiver are not intentionally changed. Sampled surface error outside the edited top-hook region is checked below 0.01 mm after mesh simplification.
