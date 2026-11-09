@@ -1,4 +1,8 @@
-# Vader 5 Pro detachable Box 2 mount — V38 one-millimeter clip reductions
+# Vader 5 Pro detachable Box 2 mount — V39 rounded shell corners
+
+**Latest:** [V39 small PLA cover test](print/v39_pla/Vader5Pro_V39_PLA_Rounded_Edges_Test.3mf) rounds the shell corners to a nominal 2 mm radius and adds a 0.25 mm side-edge lead-in after the owner reported squared edges block full sliding. V38 clip dimensions and reinforced roots remain. [All parts on one plate](print/v39_pla/Vader5Pro_V39_All_Parts_One_Plate_PLA.3mf) · [Changes and print instructions](print/v39_pla/README.md). Physical seating remains unverified.
+
+## V38 — previous clip trim
 
 **Latest:** [V38 small PLA cover test](print/v38_pla/Vader5Pro_V38_PLA_Trimmed_Hooks_Test.3mf) shortens the top catch lips and bottom middle projection by 1 mm after V37 was reported to hold but feel slightly large. The 35 × 24 mm shell and reinforced roots remain. [All parts on one plate](print/v38_pla/Vader5Pro_V38_All_Parts_One_Plate_PLA.3mf) · [Changes and side-print instructions](print/v38_pla/README.md). V38 physical fit remains unverified.
 

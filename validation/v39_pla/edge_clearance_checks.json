@@ -1,0 +1,19 @@
+{
+  "baseline": "V38",
+  "owner_feedback": "Squared shell edges prevent sliding fully down",
+  "shell_plan_corner_radius_mm": 2,
+  "side_edge_lead_in_mm": 0.25,
+  "lead_in_zones": "Shell perimeter at |X|>=14.2; follows existing controller-facing surface",
+  "clip_max_sampled_surface_error_mm": 0.0013270708240869429,
+  "shell_mm": [
+    35,
+    24
+  ],
+  "overall_mm": 28.49963665008545,
+  "removed_volume_mm3": 2.2344187173475802,
+  "top_reach_mm": 6.3,
+  "middle_projection_mm": 4.5,
+  "clips_and_reinforced_roots_intentionally_changed": false,
+  "physical_fit_verified": false,
+  "OEM_corner_radius_measured": false
+}

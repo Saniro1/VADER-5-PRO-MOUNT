@@ -1,5 +1,7 @@
 # Current print files
 
+**Latest: [V39 rounded shell corners / Snapmaker PLA](v39_pla/README.md)**. Nominal 2 mm corner radius and 0.25 mm side-edge lead-in, retaining V38 clips and anchors. Includes small test and one-plate full assembly; keep saved side orientation.
+
 **Latest: [V38 top and middle hooks shortened 1 mm / Snapmaker PLA](v38_pla/README.md)**. The shell and anchors from V37 are retained. Includes small test cover and one-plate complete assembly; keep saved side orientation.
 
 **Latest: [V37 extended main lower edge and catch-lip overhang / Snapmaker PLA](v37_pla/README.md)**. +3 mm catch-lip reach with unchanged leg depth; +3 mm main lower shell edge. Includes test cover and one-plate full assembly. Keep side orientation and solid root web.

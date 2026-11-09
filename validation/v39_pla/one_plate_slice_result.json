@@ -1,0 +1,49 @@
+{
+  "error_string": "Success.",
+  "export_time": 0,
+  "plate_index": 0,
+  "prepare_time": 0,
+  "return_code": 0,
+  "sliced_plates": [
+    {
+      "id": 1,
+      "sliced_time": 5,
+      "sliced_time_with_cache": 3,
+      "triangle_count": 11026,
+      "warning_message": "It seems object Mount_A has floating cantilever. Please re-orient the object or enable support generation."
+    }
+  ],
+  "slicer_release": "Snapmaker Orca 2.4.1",
+  "plate_details": [
+    {
+      "plate": 1,
+      "objects": [
+        "Mount_A",
+        "Shared_Box_2",
+        "Sliding_Cap"
+      ],
+      "estimated_time": "2h 55m 18s",
+      "estimated_filament_g": 16.13,
+      "extruding_moves_checked": 96624,
+      "extrusion_bounds_mm": [
+        [
+          82.396,
+          80.084,
+          0.2
+        ],
+        [
+          194.336,
+          172.017,
+          35.0
+        ]
+      ],
+      "three_objects_on_one_plate": true,
+      "timelapse_commands_present": false,
+      "wipe_and_70pct_retraction_seen": true
+    }
+  ],
+  "physical_print_tested": false,
+  "exact_OEM_fit_verified": false,
+  "published_file_contains_gcode": false,
+  "project_sha256": "5b0527ec9ff9d84ed4dd851cc2e3056a05341d916917788bf77adfc61f2b5806"
+}
