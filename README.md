@@ -1,6 +1,10 @@
-# Vader 5 Pro detachable Box 2 mount — V26 retention trials
+# Vader 5 Pro detachable Box 2 mount — V27 printing recovery
 
-**Latest:** [V26 small cover fit-test 3MF](print/v26_retention/Vader5Pro_V26_Cover_Fit_Trials_Only.3mf). The shell is relieved another 0.25 mm and two variants increase local retaining-lip engagement. Start with **cover A, plate 1** before printing a full mount. [Complete seven-plate project](print/v26_retention/Vader5Pro_V26_Retention_Trials_Complete.3mf) · [Settings, changes and fitting instructions](print/v26_retention/README.md).
+**Latest:** [V27 cover-test print recovery 3MF](print/v27_print_recovery/Vader5Pro_V27_Cover_Tests_Print_Recovery.3mf), with a 5 mm contacting brim, closer custom supports and a warmer first-layer bed after a reported failed print. Part geometry is unchanged from V26. [Complete project and instructions](print/v27_print_recovery/README.md). Physical printing reliability remains unverified.
+
+## V26 — retention geometry trials
+
+[V26 small cover fit-test 3MF](print/v26_retention/Vader5Pro_V26_Cover_Fit_Trials_Only.3mf). The shell is relieved another 0.25 mm and two variants increase local retaining-lip engagement. Start with **cover A, plate 1** before printing a full mount. [Complete seven-plate project](print/v26_retention/Vader5Pro_V26_Retention_Trials_Complete.3mf) · [Settings, changes and fitting instructions](print/v26_retention/README.md).
 
 V25 was reported to seat better but release under a slight backward pull. V26 is a retention trial; physical fit and removal force remain unverified. No exact OEM drawing is available.
 

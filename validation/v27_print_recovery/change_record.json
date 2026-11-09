@@ -1,0 +1,27 @@
+{
+  "part_geometry_changed": false,
+  "physical_print_tested": false,
+  "cause_confirmed": false,
+  "potential_causes": [
+    "bed/support detachment",
+    "insufficient support for bridging"
+  ],
+  "changes": {
+    "brim_width_mm": 5,
+    "brim_object_gap_mm": 0,
+    "custom_support_min_top_gap_mm": 0.2,
+    "support_height_quantization_mm": 0.12,
+    "central_support_arm_width_mm": 0.8,
+    "first_layer_textured_bed_C": 75,
+    "later_textured_bed_C": 70
+  },
+  "unchanged_part_sha256": {
+    "Box_2_V26.stl": "5c1d585799de84256af7bdba4c43c2dc39e4de269851eaa6b6b3e39ad36aa2a5",
+    "V26_B_Cover_Fit_Test.stl": "ce29cd72260e133a755a43062694d00810b1496073efc82dadc5bc78e63b33b9",
+    "V26_B_Vader_Mount.stl": "44137ba4231c9724311ccad473085cfe47c12f4750a176bfb90f8d1e8fbc795f",
+    "V26_A_Cover_Fit_Test.stl": "98353ecf0ecc660b2369fe930fbab0dc76651590e75ae6a565059be0c4773187",
+    "Optional_Stringing_Test.stl": "d5b01c373565a9ea0c65636902cd4851466c24b701f709a371ff3ba09f2d7d19",
+    "V26_A_Vader_Mount.stl": "043bfa1cf9c3629b8d97a8854633c54e0783bd2af0f63f17af2d9e88b440f9c4",
+    "Box_2_V26_Sliding_Cap.stl": "e8fd4fcecd791ca03deeada0c486504f11dba25016c6628c0f84febce48b5d7f"
+  }
+}
