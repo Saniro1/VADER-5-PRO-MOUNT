@@ -1,0 +1,54 @@
+{
+  "Mount_A": {
+    "bounds_mm": [
+      [
+        86.7329998,
+        90.420000086,
+        0.0
+      ],
+      [
+        113.2670002,
+        119.319999686,
+        35.0
+      ]
+    ],
+    "brim_and_support_footprint_clear": true,
+    "geometry_matches_V34": true
+  },
+  "Shared_Box_2": {
+    "bounds_mm": [
+      [
+        150.0,
+        89.0,
+        0.0
+      ],
+      [
+        190.0,
+        125.75,
+        26.9500008
+      ]
+    ],
+    "brim_and_support_footprint_clear": true,
+    "geometry_matches_V34": true
+  },
+  "Sliding_Cap": {
+    "bounds_mm": [
+      [
+        119.8500004,
+        162.32499909,
+        0.0
+      ],
+      [
+        150.1499996,
+        167.67500091,
+        30.0999984
+      ]
+    ],
+    "brim_and_support_footprint_clear": true,
+    "geometry_matches_V34": true
+  },
+  "plate_count": 1,
+  "functional_part_count": 3,
+  "print_sequence": "by layer",
+  "physical_print_tested": false
+}

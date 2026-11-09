@@ -1,5 +1,7 @@
 # Current print files
 
+**Latest: [V34 reinforced opposite-edge hooks / Snapmaker PLA](v34_pla/README.md)**. Deeper shoulders, root braces and saved side-print orientation. Includes test cover and all-parts-on-one-plate project. Keep the saved orientation; fit/strength remain unverified.
+
 **Latest: [V33 owner-measured dimensions / Snapmaker PLA](v33_pla/README.md)**. Shell 35 × 21 mm, middle clip 5 × 5 mm, overall 26 mm. Top clip 4 mm is assumed inward reach. Includes test cover and all-parts-on-one-plate project; physical fit unverified.
 
 **Latest: [V32 rebuilt hook edges / Snapmaker PLA](v32_pla/README.md)**, with a small test cover and an all-parts-on-one-plate project. Flat retaining ledges and beveled entries replace the prior tapered hook ends. Physical fit remains unverified.

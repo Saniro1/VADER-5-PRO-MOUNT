@@ -1,0 +1,20 @@
+{
+  "baseline": "V33",
+  "owner_confirmed_hook_pair": "opposite edge from middle clip",
+  "owner_feedback": "cover fits better; hooks slip and one broke",
+  "nominal_reach_mm": 4,
+  "reach_direction_still_assumed": "inward from edge",
+  "flat_retaining_shoulder_projection_mm": 1.009637641906739,
+  "neck_setback_Y": 9.55,
+  "rear_neck_Y": 10.75,
+  "neck_nominal_Y_thickness_mm": 1.2,
+  "entry_chamfer_mm": 0.12,
+  "gussets_each_hook": 2,
+  "gusset_width_mm": 0.6,
+  "lowest_Z_mm": -2.685,
+  "outside_modified_region_max_sampled_surface_error_mm": 0.003008337519203975,
+  "printing_change": "Cover and mount rotated 90 degrees about Y: hook profile lies in each XY layer. Designed supports 0.16 mm minimum gap.",
+  "measured_shell_and_middle_preserved": true,
+  "physical_strength_or_fit_verified": false,
+  "OEM_shape_exact": false
+}

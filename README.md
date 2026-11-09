@@ -1,4 +1,8 @@
-# Vader 5 Pro detachable Box 2 mount — V33 measured cover dimensions
+# Vader 5 Pro detachable Box 2 mount — V34 reinforced hook shoulders
+
+**Latest:** [V34 small PLA cover test](print/v34_pla/Vader5Pro_V34_PLA_Reinforced_Hooks_Test.3mf) gives the opposite-edge pair deeper retaining shoulders, thicker necks and root gussets. Cover and mount print on their sides for clearer hook contours. The measured shell and middle clip remain. [All parts on one plate](print/v34_pla/Vader5Pro_V34_All_Parts_One_Plate_PLA.3mf) · [Changes and print instructions](print/v34_pla/README.md). Fit and strength remain physically unverified.
+
+## V33 — previous measured cover
 
 **Latest:** [V33 small PLA cover test](print/v33_pla/Vader5Pro_V33_PLA_Measured_Cover_Test.3mf) targets the owner's 35 × 21 mm shell, 5 × 5 mm middle clip and 26 mm overall. Top clips use an explicitly stated assumption of 4 mm inward reach. [All parts on one plate](print/v33_pla/Vader5Pro_V33_All_Parts_One_Plate_PLA.3mf) · [Changes and limits](print/v33_pla/README.md). Physical fit remains unverified.
 
