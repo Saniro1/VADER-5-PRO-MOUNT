@@ -1,0 +1,19 @@
+{
+  "error_string": "Success.",
+  "export_time": 0,
+  "plate_index": 0,
+  "prepare_time": 0,
+  "return_code": 0,
+  "sliced_plates": [
+    {
+      "id": 1,
+      "sliced_time": 2,
+      "sliced_time_with_cache": 1,
+      "triangle_count": 7898,
+      "warning_message": "It seems object Cover_A has floating regions. Please re-orient the object or enable support generation."
+    }
+  ],
+  "estimated_time": "44m 49s",
+  "physical_print_tested": false,
+  "project_sha256": "06b3c30e4a2512865c0ac37f8cf50226e2758b7173a8c5987c4b5d435dfb881f"
+}

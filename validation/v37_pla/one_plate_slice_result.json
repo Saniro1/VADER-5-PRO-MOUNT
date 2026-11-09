@@ -1,0 +1,49 @@
+{
+  "error_string": "Success.",
+  "export_time": 0,
+  "plate_index": 0,
+  "prepare_time": 0,
+  "return_code": 0,
+  "sliced_plates": [
+    {
+      "id": 1,
+      "sliced_time": 5,
+      "sliced_time_with_cache": 4,
+      "triangle_count": 7890,
+      "warning_message": "It seems object Mount_A has floating regions. Please re-orient the object or enable support generation."
+    }
+  ],
+  "slicer_release": "Snapmaker Orca 2.4.1",
+  "plate_details": [
+    {
+      "plate": 1,
+      "objects": [
+        "Mount_A",
+        "Shared_Box_2",
+        "Sliding_Cap"
+      ],
+      "estimated_time": "2h 57m 8s",
+      "estimated_filament_g": 16.21,
+      "extruding_moves_checked": 97964,
+      "extrusion_bounds_mm": [
+        [
+          82.405,
+          79.584,
+          0.2
+        ],
+        [
+          194.336,
+          172.017,
+          35.0
+        ]
+      ],
+      "three_objects_on_one_plate": true,
+      "timelapse_commands_present": false,
+      "wipe_and_70pct_retraction_seen": true
+    }
+  ],
+  "physical_print_tested": false,
+  "exact_OEM_fit_verified": false,
+  "published_file_contains_gcode": false,
+  "project_sha256": "9409dc1899d2b1fdb3c711ef9b7ec7d89eb961f5965df91b2ebb6d058fe5d2f1"
+}

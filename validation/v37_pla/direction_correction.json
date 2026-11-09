@@ -1,0 +1,46 @@
+{
+  "baseline": "V36",
+  "owner_confirmed_top_change": "Catch lips only, +3 mm overhang; not 3 mm deeper legs",
+  "catch_lip_extra_reach_mm": 3,
+  "new_inward_reach_mm": 7.3,
+  "top_hook_width_mm": 6,
+  "top_neck_mm": 1.6,
+  "lowest_Z_old_new": [
+    -2.684999942779541,
+    -2.684999942779541
+  ],
+  "owner_confirmed_bottom_change": "Main curved cover edge +3 mm",
+  "shell_old_mm": [
+    35,
+    21
+  ],
+  "shell_new_mm": [
+    35,
+    23.999932289123535
+  ],
+  "middle_hook_moved_with_rim_mm": 3,
+  "middle_projection_beyond_new_rim_mm": 5.5,
+  "overall_including_middle_mm": 29.499999046325684,
+  "lower_shell_transition": "Continuous localized Y stretch over last 2 mm of prior shell; X/Z retained. Low supplementary side-latch contacts excluded from stretch.",
+  "middle_root_sections": [
+    {
+      "Y": -8.765974388299558,
+      "Z_thickness": 1.354880290343793
+    },
+    {
+      "Y": -10.036242955887005,
+      "Z_thickness": 1.4264803358445732
+    },
+    {
+      "Y": -10.326769332498378,
+      "Z_thickness": 1.2858003719287705
+    },
+    {
+      "Y": -11.061450625647305,
+      "Z_thickness": 1.48365654881054
+    }
+  ],
+  "physical_clearance_fit_strength_verified": false,
+  "exact_OEM_replica": false,
+  "supplementary_side_latch_contact_max_sampled_error_mm": 0.0010328663005165972
+}
