@@ -1,4 +1,8 @@
-# Vader 5 Pro detachable Box 2 mount — V31 longer top clips
+# Vader 5 Pro detachable Box 2 mount — V32 rebuilt hook edges
+
+**Latest:** [V32 test cover](print/v32_pla/Vader5Pro_V32_PLA_Reshaped_Hooks_Test.3mf) rebuilds the top-hook ends with flat retaining ledges and beveled entry edges, keeping the improved middle tongue. [All functional parts on one plate](print/v32_pla/Vader5Pro_V32_All_Parts_One_Plate_PLA.3mf) · [Changes, settings and limits](print/v32_pla/README.md). Physical retention remains unverified; start with the test cover.
+
+## V31 — previous length trial
 
 **All parts in one print:** [V31 one-plate PLA 3MF](print/v31_pla/Vader5Pro_V31_All_Parts_One_Plate_PLA.3mf) arranges the full mount, Box 2 and sliding lid with supports on one U1 plate, printed by layer. Open as a project in Snapmaker Orca.
 

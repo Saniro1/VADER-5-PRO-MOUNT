@@ -1,0 +1,13 @@
+{
+  "baseline": "V31",
+  "hook_width_mm": 5,
+  "leading_y_mm": 7.56,
+  "retaining_face_z_mm": -1.65,
+  "lowest_z_mm": -2.685,
+  "entry_bevel_mm": 0.3,
+  "plan_corner_chamfer_mm": 0.15,
+  "outside_hook_region_max_sampled_surface_error_mm": 0.006644472961197026,
+  "middle_clip_unchanged": true,
+  "OEM_profile_exact": false,
+  "physical_fit_verified": false
+}

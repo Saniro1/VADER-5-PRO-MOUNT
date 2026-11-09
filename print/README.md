@@ -1,5 +1,7 @@
 # Current print files
 
+**Latest: [V32 rebuilt hook edges / Snapmaker PLA](v32_pla/README.md)**, with a small test cover and an all-parts-on-one-plate project. Flat retaining ledges and beveled entries replace the prior tapered hook ends. Physical fit remains unverified.
+
 **Latest: [V31 longer top clips / Snapmaker PLA](v31_pla/README.md).** Adds another 0.20 mm of top-hook toe reach relative to V30; middle tongue and print settings retained. Start with the single-cover project.
 
 **Latest: [V30 larger top clips / Snapmaker PLA](v30_pla/README.md).** Top-hook toe reach +0.20 mm; V29 middle tongue retained. Start with the single-cover project.
