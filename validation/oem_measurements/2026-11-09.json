@@ -1,0 +1,38 @@
+{
+  "source": "Owner measurements of OEM Vader 5 Pro back cover",
+  "units": "mm",
+  "reported": {
+    "up_down": 21,
+    "side_to_side": 35,
+    "middle_clip_width": 5,
+    "middle_clip_length": 5,
+    "top_clip_length_from_edge": 4,
+    "overall_including_middle": 26,
+    "up_down_is_shell_only": true
+  },
+  "pending_datum_clarifications": [
+    "Is 4 mm measured inward from shell edge to tip, or out-of-surface height?"
+  ],
+  "V32_CAD_comparison": {
+    "width": 35,
+    "shell_up_down_away_from_clips_approx": 22.835,
+    "shell_Y_bounds_near_X_5": [
+      -10.2942,
+      12.5403
+    ],
+    "middle_clip_width_at_Y_minus_12p5": 5.202,
+    "middle_clip_tip_Y": -13.4805,
+    "middle_clip_projection_from_existing_shell_end_approx": 3.1863,
+    "top_hook_leading_Y": 7.56,
+    "top_hook_inward_reach_from_positive_Y_shell_edge_approx": 4.9803
+  },
+  "interpretation": "Owner confirmed 21 mm shell excluding middle clip and 26 mm overall. Top clip direction remains unconfirmed; V33 assumes 4 mm inward reach.",
+  "KIRI_scan": {
+    "scale_metadata_present": false,
+    "35mm_owner_width_available_for_reference_scaling": true,
+    "remaining_hook_undercuts_reliably_resolved": false,
+    "top_region_excluded_by_owner_request": true
+  },
+  "physical_fit_verified": false,
+  "new_model_released_from_these_measurements": "V33, with top-clip inward datum explicitly assumed"
+}

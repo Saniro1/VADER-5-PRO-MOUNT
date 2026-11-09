@@ -1,4 +1,8 @@
-# Vader 5 Pro detachable Box 2 mount — V32 rebuilt hook edges
+# Vader 5 Pro detachable Box 2 mount — V33 measured cover dimensions
+
+**Latest:** [V33 small PLA cover test](print/v33_pla/Vader5Pro_V33_PLA_Measured_Cover_Test.3mf) targets the owner's 35 × 21 mm shell, 5 × 5 mm middle clip and 26 mm overall. Top clips use an explicitly stated assumption of 4 mm inward reach. [All parts on one plate](print/v33_pla/Vader5Pro_V33_All_Parts_One_Plate_PLA.3mf) · [Changes and limits](print/v33_pla/README.md). Physical fit remains unverified.
+
+## V32 — previous hook-profile trial
 
 **Latest:** [V32 test cover](print/v32_pla/Vader5Pro_V32_PLA_Reshaped_Hooks_Test.3mf) rebuilds the top-hook ends with flat retaining ledges and beveled entry edges, keeping the improved middle tongue. [All functional parts on one plate](print/v32_pla/Vader5Pro_V32_All_Parts_One_Plate_PLA.3mf) · [Changes, settings and limits](print/v32_pla/README.md). Physical retention remains unverified; start with the test cover.
 

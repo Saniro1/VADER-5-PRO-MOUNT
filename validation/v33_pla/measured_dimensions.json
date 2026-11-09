@@ -1,0 +1,33 @@
+{
+  "owner_measured_mm": {
+    "shell_width": 35,
+    "shell_height": 21,
+    "middle_width": 5,
+    "middle_length": 5,
+    "overall_height": 26,
+    "top_clip_from_edge": 4
+  },
+  "CAD_mm": {
+    "width": 35.0,
+    "shell_height_section_X_5": 20.999932289123535,
+    "overall_height": 26.0,
+    "middle_width_samples": [
+      5.0,
+      5.0,
+      5.0
+    ],
+    "middle_projection": 5.0,
+    "top_clip_inward_reach": 4.0
+  },
+  "datums": {
+    "shell_upper_Y": 12.540362358093262,
+    "shell_lower_Y": -8.459637641906738,
+    "middle_tip_Y": -13.459637641906738,
+    "top_toe_Y": 8.540362358093262
+  },
+  "top_clip_reference_assumption": "4 mm inward from shell edge to tip; owner has not explicitly confirmed this direction.",
+  "method": "Trim lower shell rim and narrow middle tongue; rebuild top toes to reach. No global scaling.",
+  "physical_fit_verified": false,
+  "shell_curvature_and_thickness_measured": false,
+  "OEM_hook_profile_exact": false
+}
