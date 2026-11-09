@@ -1,6 +1,10 @@
-# Vader 5 Pro detachable Box 2 mount — V29 longer middle clip
+# Vader 5 Pro detachable Box 2 mount — V30 larger top clips
 
-**Latest:** [V29 single-cover PLA test](print/v29_pla/Vader5Pro_V29_PLA_Longer_Middle_Clip_Test.3mf) extends V28 B’s middle clip by 0.40 mm along its existing reach direction. [Matching complete project and details](print/v29_pla/README.md). Print the small cover first; physical seating remains unverified.
+**Latest:** [V30 single-cover PLA test](print/v30_pla/Vader5Pro_V30_PLA_Larger_Top_Clips_Test.3mf) adds 0.20 mm reach to both top-hook toes while retaining V29’s improved middle tongue. [Matching complete project and instructions](print/v30_pla/README.md). Start with the small test; physical fit remains unverified.
+
+## V29 — previous middle-clip trial
+
+ [V29 single-cover PLA test](print/v29_pla/Vader5Pro_V29_PLA_Longer_Middle_Clip_Test.3mf) extends V28 B’s middle clip by 0.40 mm along its existing reach direction. [Matching complete project and details](print/v29_pla/README.md). Print the small cover first; physical seating remains unverified.
 
 ## V28 — previous PLA version
 
