@@ -1,0 +1,41 @@
+{
+  "error_string": "Success.",
+  "export_time": 0,
+  "plate_index": 0,
+  "prepare_time": 0,
+  "return_code": 0,
+  "sliced_plates": [
+    {
+      "id": 1,
+      "sliced_time": 1,
+      "sliced_time_with_cache": 0,
+      "triangle_count": 5044,
+      "warning_message": "It seems object Cover_A has floating regions. Please re-orient the object or enable support generation."
+    },
+    {
+      "id": 2,
+      "sliced_time": 1,
+      "sliced_time_with_cache": 1,
+      "triangle_count": 5226,
+      "warning_message": "It seems object Cover_B has floating regions. Please re-orient the object or enable support generation."
+    }
+  ],
+  "details": [
+    {
+      "plate": 1,
+      "estimated_time": "26m 9s",
+      "brim_present": true,
+      "nozzle_C": 220,
+      "bed_C": 65
+    },
+    {
+      "plate": 2,
+      "estimated_time": "25m 6s",
+      "brim_present": true,
+      "nozzle_C": 220,
+      "bed_C": 65
+    }
+  ],
+  "physical_print_tested": false,
+  "project_sha256": "5d24bfc57dfafd53117c8754d200b0493d8ac8d449933fe21be07efbc07bd0f7"
+}

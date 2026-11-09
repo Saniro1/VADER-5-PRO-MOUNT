@@ -1,0 +1,152 @@
+{
+  "physical_fit_tested": false,
+  "parts": {
+    "box": {
+      "watertight": true,
+      "consistent_winding": true,
+      "components": 1,
+      "volume_mm3": 6755.17089168882,
+      "bounds_mm": [
+        [
+          -14.84999942779541,
+          -17.5,
+          -3.4499998092651367
+        ],
+        [
+          12.84999942779541,
+          12.0,
+          23.5
+        ]
+      ]
+    },
+    "cap": {
+      "watertight": true,
+      "consistent_winding": true,
+      "components": 1,
+      "volume_mm3": 1683.9819006148236,
+      "bounds_mm": [
+        [
+          -16.149999618530273,
+          -17.799999237060547,
+          20.599998474121094
+        ],
+        [
+          14.149999618530273,
+          12.299999237060547,
+          25.950000762939453
+        ]
+      ]
+    },
+    "mount": {
+      "watertight": true,
+      "consistent_winding": true,
+      "components": 1,
+      "volume_mm3": 3537.413657646557,
+      "bounds_mm": [
+        [
+          -17.5,
+          -13.0805082321167,
+          -2.684990882873535
+        ],
+        [
+          17.5,
+          13.199999809265137,
+          11.84999942779541
+        ]
+      ]
+    },
+    "cover": {
+      "watertight": true,
+      "consistent_winding": true,
+      "components": 1,
+      "volume_mm3": 1253.986241670509,
+      "bounds_mm": [
+        [
+          -17.5,
+          -13.0805082321167,
+          -2.6849915981292725
+        ],
+        [
+          17.5,
+          12.709199905395508,
+          5.545058727264404
+        ]
+      ]
+    }
+  },
+  "uniform_cavity_overlap_mm3": 0.0,
+  "cavity_dimensions_mm": [
+    20,
+    24.5,
+    22.5
+  ],
+  "male_rail_symmetric_difference_mm3": 6.312431414793689e-05,
+  "cap_slide": {
+    "max_overlap_mm3": 0.0,
+    "y_range_mm": [
+      -35,
+      0
+    ],
+    "sample_step_mm": 0.25,
+    "stop_overlap_at_0p5mm_mm3": 0.3960021476769325
+  },
+  "dock": {
+    "usb_down": {
+      "slide_overlap_mm3": 0.0
+    },
+    "usb_up": {
+      "slide_overlap_mm3": 0.0
+    }
+  },
+  "native_project": {
+    "Cover_A": {
+      "volumes": 2,
+      "max_vertex_error_mm": 1.461978594623591e-06
+    },
+    "Cover_B": {
+      "volumes": 2,
+      "max_vertex_error_mm": 1.2051572021083646e-06
+    },
+    "Mount_A": {
+      "volumes": 2,
+      "max_vertex_error_mm": 1.3770443808355266e-06
+    },
+    "Mount_B": {
+      "volumes": 2,
+      "max_vertex_error_mm": 1.3770443399769863e-06
+    },
+    "Shared_Box_2": {
+      "volumes": 2,
+      "max_vertex_error_mm": 1.973508516453493e-06
+    },
+    "Sliding_Cap": {
+      "volumes": 1,
+      "max_vertex_error_mm": 6.224465980055444e-07
+    },
+    "Optional_Stringing_Test": {
+      "volumes": 1,
+      "max_vertex_error_mm": 1.7807907148892355e-07
+    }
+  },
+  "plate_count": 7,
+  "exact_OEM_fit_verified": false,
+  "sampled_A_underside_relief_error_mm": 0.0050893000161732205,
+  "locking_keys_in_project": 0,
+  "retention": "Key removed by request; no positive axial lock or measured pull-out rating.",
+  "matching_interfaces": {
+    "A": {
+      "max_interface_error_mm": 1.0093098552770046e-06,
+      "global_insertion_depth_added_mm": 0
+    },
+    "B": {
+      "max_interface_error_mm": 0.002665849378727036,
+      "global_insertion_depth_added_mm": 0
+    }
+  },
+  "fit_only_project": {
+    "plates": 2,
+    "objects": 2,
+    "settings_match_complete": true,
+    "cover_geometry_matches_complete": true
+  }
+}

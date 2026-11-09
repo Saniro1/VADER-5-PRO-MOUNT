@@ -1,5 +1,7 @@
 # Current print files
 
+**Latest requested filament: [V28 regular Snapmaker black PLA](v28_pla/README.md)** for U1 0.4 mm. Use its PLA project rather than the PETG project below. Start with plate 1 / cover A.
+
 **Latest: [V28 underside-clearance trials](v28_seating/README.md).** Print cover A first; B provides greater underside clearance. Both retain V26 A retaining geometry and V27 printing aids. Physical seating remains unverified.
 
 Archived **[V27 printing recovery](v27_print_recovery/README.md)** after the reported V26 print failure. It keeps the same part geometry and adds brims, closer supports and first-layer adhesion changes. Print cover A first; physical reliability is unverified.

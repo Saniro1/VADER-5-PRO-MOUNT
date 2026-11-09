@@ -1,6 +1,10 @@
-# Vader 5 Pro detachable Box 2 mount — V28 underside-clearance trials
+# Vader 5 Pro detachable Box 2 mount — V28 Snapmaker PLA projects
 
-**Latest:** [V28 small cover tests](print/v28_seating/Vader5Pro_V28_Underside_Clearance_Tests.3mf) add 0.15/0.30 mm of controller-facing shell clearance after the owner reported the cover still sits high. Both retain V26 A hook geometry and V27 printing aids. Print plate 1 / A first. [Complete project, changes and limits](print/v28_seating/README.md). Physical seating remains unverified.
+**Latest requested material: regular Snapmaker black PLA.** [V28 PLA cover-test project](print/v28_pla/Vader5Pro_V28_Snapmaker_PLA_Black_Cover_Tests.3mf) · [Complete PLA project and settings](print/v28_pla/README.md). Configured for Snapmaker Orca / U1 / 0.4 mm, 220°C nozzle, 65°C textured PEI bed, 0.12 mm layers, custom supports and brims. Geometry is unchanged from V28; physical PLA fit remains unverified.
+
+## V28 — PETG version
+
+ [V28 small cover tests](print/v28_seating/Vader5Pro_V28_Underside_Clearance_Tests.3mf) add 0.15/0.30 mm of controller-facing shell clearance after the owner reported the cover still sits high. Both retain V26 A hook geometry and V27 printing aids. Print plate 1 / A first. [Complete project, changes and limits](print/v28_seating/README.md). Physical seating remains unverified.
 
 ## V27 — printing recovery
 
