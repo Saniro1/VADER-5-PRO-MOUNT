@@ -1,4 +1,8 @@
-# Vader 5 Pro detachable Box 2 mount — V35 wider retaining hooks
+# Vader 5 Pro detachable Box 2 mount — V36 longer hooks and solid middle anchor
+
+**Latest:** [V36 small PLA cover test](print/v36_pla/Vader5Pro_V36_PLA_Longer_Anchored_Hooks_Test.3mf) adds 0.30 mm top-hook reach and 0.50 mm middle-tongue reach, with a full-width tapered anchor web into the shell. Shell dimensions stay 35 × 21 mm; overall height becomes 26.5 mm. [All parts on one plate](print/v36_pla/Vader5Pro_V36_All_Parts_One_Plate_PLA.3mf) · [Changes and side-print instructions](print/v36_pla/README.md). Physical fit and strength remain unverified.
+
+## V35 — previous wider-hook trial
 
 **Latest:** [V35 small PLA cover test](print/v35_pla/Vader5Pro_V35_PLA_Wider_Hooks_Test.3mf) widens the opposite-edge hooks to 6 mm, increases necks to 1.6 mm and adds larger braces while keeping tip reach and insertion depth. [All parts on one plate](print/v35_pla/Vader5Pro_V35_All_Parts_One_Plate_PLA.3mf) · [Changes and side-print instructions](print/v35_pla/README.md). Physical clearance, retention and strength remain unverified.
 

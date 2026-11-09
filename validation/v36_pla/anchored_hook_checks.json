@@ -1,0 +1,44 @@
+{
+  "baseline": "V35",
+  "top_reach_mm": 4.3,
+  "top_extra_reach_mm": 0.3,
+  "top_width_mm": 6,
+  "top_neck_mm": 1.6,
+  "middle_projection_mm": 5.5,
+  "middle_extra_reach_mm": 0.5,
+  "middle_width_mm": 5,
+  "shell_mm": [
+    35,
+    21
+  ],
+  "overall_mm": 26.5,
+  "middle_web_width_mm": 5,
+  "middle_root_spread_within_shell_mm": 7,
+  "web_overlap_with_old_part_mm3": 22.323979032041034,
+  "sampled_root_sections": [
+    {
+      "Y": -7.4,
+      "Z_thickness": 1.3558917848262588
+    },
+    {
+      "Y": -7.8,
+      "Z_thickness": 1.4267813760405623
+    },
+    {
+      "Y": -7.9,
+      "Z_thickness": 1.2870403883605608
+    },
+    {
+      "Y": -8.2,
+      "Z_thickness": 1.4795488146150078
+    }
+  ],
+  "cover_components": 1,
+  "mount_components": 1,
+  "physical_fit_strength_verified": false,
+  "local_clearance_of_added_web_measured": false,
+  "web_overlap_by_attachment_mm3": {
+    "shell": 7.028693531603067,
+    "tongue": 15.295285240099142
+  }
+}

@@ -1,5 +1,7 @@
 # Current print files
 
+**Latest: [V36 longer hooks and solid middle anchor / Snapmaker PLA](v36_pla/README.md)**. Top reach +0.30 mm, middle reach +0.50 mm, tapered full-width root web. Includes test cover and one-plate full assembly. Keep side orientation and leave the solid web attached.
+
 **Latest: [V35 wider controller-engaging hooks / Snapmaker PLA](v35_pla/README.md)**. 6 mm-wide hooks, 1.6 mm necks and larger root braces; measured shell/middle retained. Includes test cover and one-plate full assembly. Keep saved side orientation.
 
 **Latest: [V34 reinforced opposite-edge hooks / Snapmaker PLA](v34_pla/README.md)**. Deeper shoulders, root braces and saved side-print orientation. Includes test cover and all-parts-on-one-plate project. Keep the saved orientation; fit/strength remain unverified.
