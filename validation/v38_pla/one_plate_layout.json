@@ -1,0 +1,23 @@
+{
+  "Mount_A": {
+    "xy": [
+      100,
+      105
+    ],
+    "support_included": true
+  },
+  "Shared_Box_2": {
+    "xy": [
+      170,
+      105
+    ],
+    "support_included": true
+  },
+  "Sliding_Cap": {
+    "xy": [
+      135,
+      165
+    ],
+    "support_included": false
+  }
+}

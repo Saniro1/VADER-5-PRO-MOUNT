@@ -1,4 +1,8 @@
-# Vader 5 Pro detachable Box 2 mount — V37 extended shell and catch lips
+# Vader 5 Pro detachable Box 2 mount — V38 one-millimeter clip reductions
+
+**Latest:** [V38 small PLA cover test](print/v38_pla/Vader5Pro_V38_PLA_Trimmed_Hooks_Test.3mf) shortens the top catch lips and bottom middle projection by 1 mm after V37 was reported to hold but feel slightly large. The 35 × 24 mm shell and reinforced roots remain. [All parts on one plate](print/v38_pla/Vader5Pro_V38_All_Parts_One_Plate_PLA.3mf) · [Changes and side-print instructions](print/v38_pla/README.md). V38 physical fit remains unverified.
+
+## V37 — owner-reported retention, before trim
 
 **Latest:** [V37 small PLA cover test](print/v37_pla/Vader5Pro_V37_PLA_Extended_Shell_Catch_Lips_Test.3mf) adds 3 mm to the catch-lip overhang without deeper hook legs, and 3 mm to the main lower shell edge. Shell is now 35 × 24 mm; the reinforced middle tongue moves with the rim. [All parts on one plate](print/v37_pla/Vader5Pro_V37_All_Parts_One_Plate_PLA.3mf) · [Direction diagram and print instructions](print/v37_pla/README.md). Physical fit remains unverified.
 

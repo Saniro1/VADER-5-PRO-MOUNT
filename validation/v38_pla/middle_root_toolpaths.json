@@ -1,0 +1,31 @@
+{
+  "checks": [
+    {
+      "layer_Z": 17.24,
+      "root_line_covered_mm": 1.049999999999983,
+      "probe_length_mm": 1.049999999999983
+    },
+    {
+      "layer_Z": 17.36,
+      "root_line_covered_mm": 1.049999999999983,
+      "probe_length_mm": 1.049999999999983
+    },
+    {
+      "layer_Z": 17.48,
+      "root_line_covered_mm": 1.049999999999983,
+      "probe_length_mm": 1.049999999999983
+    },
+    {
+      "layer_Z": 17.6,
+      "root_line_covered_mm": 1.049999999999983,
+      "probe_length_mm": 1.049999999999983
+    },
+    {
+      "layer_Z": 17.72,
+      "root_line_covered_mm": 1.049999999999983,
+      "probe_length_mm": 1.049999999999983
+    }
+  ],
+  "physical_bond_strength_verified": false,
+  "meaning": "Extrusion planned through an interior line across the extended thicker root, on several central hook layers."
+}
