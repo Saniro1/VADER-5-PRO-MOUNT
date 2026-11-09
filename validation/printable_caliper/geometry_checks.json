@@ -1,0 +1,66 @@
+{
+  "physical_print_tested": false,
+  "range_mm": [
+    0,
+    80
+  ],
+  "graduation_mm": 1,
+  "inside_reading_correction_mm": 2,
+  "assembly_overlap_max_mm3": 0.0,
+  "layout": {
+    "Caliper_Beam": {
+      "xy": [
+        110,
+        105
+      ],
+      "bounds": [
+        [
+          -62.0,
+          -24.5,
+          0.0
+        ],
+        [
+          62.0,
+          24.5,
+          5.0
+        ]
+      ]
+    },
+    "Caliper_Slider": {
+      "xy": [
+        100,
+        180
+      ],
+      "bounds": [
+        [
+          -10.0,
+          -24.5,
+          0.0
+        ],
+        [
+          10.0,
+          24.5,
+          6.399999618530273
+        ]
+      ]
+    },
+    "Check_Gauge_40_20": {
+      "xy": [
+        170,
+        180
+      ],
+      "bounds": [
+        [
+          -20.0,
+          -10.0,
+          0.0
+        ],
+        [
+          20.0,
+          10.0,
+          3.1999998092651367
+        ]
+      ]
+    }
+  }
+}

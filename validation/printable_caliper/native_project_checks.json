@@ -1,0 +1,54 @@
+{
+  "Caliper_Beam": {
+    "bounds_mm": [
+      [
+        48.0,
+        80.5,
+        0.0
+      ],
+      [
+        172.0,
+        129.5,
+        5.0
+      ]
+    ],
+    "brim_and_support_footprint_clear": true,
+    "geometry_matches_V32": true
+  },
+  "Caliper_Slider": {
+    "bounds_mm": [
+      [
+        90.0,
+        155.5,
+        0.0
+      ],
+      [
+        110.0,
+        204.5,
+        6.4000001
+      ]
+    ],
+    "brim_and_support_footprint_clear": true,
+    "geometry_matches_V32": true
+  },
+  "Check_Gauge_40_20": {
+    "bounds_mm": [
+      [
+        150.0,
+        170.0,
+        0.0
+      ],
+      [
+        190.0,
+        190.0,
+        3.20000004
+      ]
+    ],
+    "brim_and_support_footprint_clear": true,
+    "geometry_matches_V32": true
+  },
+  "plate_count": 1,
+  "functional_part_count": 3,
+  "print_sequence": "by layer",
+  "physical_print_tested": false
+}
