@@ -1,6 +1,10 @@
-# Vader 5 Pro detachable Box 2 mount — V30 larger top clips
+# Vader 5 Pro detachable Box 2 mount — V31 longer top clips
 
-**Latest:** [V30 single-cover PLA test](print/v30_pla/Vader5Pro_V30_PLA_Larger_Top_Clips_Test.3mf) adds 0.20 mm reach to both top-hook toes while retaining V29’s improved middle tongue. [Matching complete project and instructions](print/v30_pla/README.md). Start with the small test; physical fit remains unverified.
+**Latest:** [V31 single-cover PLA test](print/v31_pla/Vader5Pro_V31_PLA_Larger_Top_Clips_Test.3mf) adds another 0.20 mm of top-hook toe reach after V30 felt better but still released. The improved middle tongue and print settings remain. [Matching complete project and instructions](print/v31_pla/README.md). Physical retention remains unverified.
+
+## V30 — previous top-clip trial
+
+ [V30 single-cover PLA test](print/v30_pla/Vader5Pro_V30_PLA_Larger_Top_Clips_Test.3mf) adds 0.20 mm reach to both top-hook toes while retaining V29’s improved middle tongue. [Matching complete project and instructions](print/v30_pla/README.md). Start with the small test; physical fit remains unverified.
 
 ## V29 — previous middle-clip trial
 

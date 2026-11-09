@@ -1,5 +1,7 @@
 # Current print files
 
+**Latest: [V31 longer top clips / Snapmaker PLA](v31_pla/README.md).** Adds another 0.20 mm of top-hook toe reach relative to V30; middle tongue and print settings retained. Start with the single-cover project.
+
 **Latest: [V30 larger top clips / Snapmaker PLA](v30_pla/README.md).** Top-hook toe reach +0.20 mm; V29 middle tongue retained. Start with the single-cover project.
 
 **Latest: [V29 longer middle clip / Snapmaker PLA](v29_pla/README.md).** Extends V28 B’s central tongue 0.40 mm. Start with its single-cover project before the full mount; physical fit unverified.
