@@ -1,0 +1,313 @@
+{
+  "Cover_A": {
+    "support_volume_mm3": 489.36078343778314,
+    "removable_components": 2,
+    "targeted_clip_supports": 0,
+    "minimum_designed_top_gap_mm": 0.2,
+    "rib_width_mm": 0.44,
+    "rib_row_pitch_mm": 2.4,
+    "base_height_mm": 0.36,
+    "pull_tabs_bounds": [
+      [
+        18.95000000000003,
+        -10.944854068756099,
+        23.5,
+        -6.944854068756099
+      ],
+      [
+        18.95000000000003,
+        6.355145931243914,
+        23.5,
+        10.355145931243914
+      ]
+    ],
+    "revised_tab_support_arms": 3,
+    "additional_xy_clearance_mm": 0.25,
+    "part_bounds_mm": [
+      [
+        -17.5,
+        -12.894854068756104,
+        0.0
+      ],
+      [
+        17.5,
+        12.894854068756104,
+        8.230050325393677
+      ]
+    ],
+    "part_volume_mm3": 1253.986241670509,
+    "plate_center_xy_mm": [
+      135,
+      135
+    ],
+    "x_rotation_radians": 3.141592653589793,
+    "plate_index": 1,
+    "plate_origin_xy_mm": [
+      0,
+      0
+    ]
+  },
+  "Cover_B": {
+    "support_volume_mm3": 485.4269422817659,
+    "removable_components": 2,
+    "targeted_clip_supports": 0,
+    "minimum_designed_top_gap_mm": 0.2,
+    "rib_width_mm": 0.44,
+    "rib_row_pitch_mm": 2.4,
+    "base_height_mm": 0.36,
+    "pull_tabs_bounds": [
+      [
+        18.95000000000003,
+        -10.860435295104976,
+        23.5,
+        -6.860435295104976
+      ],
+      [
+        18.71754834673221,
+        7.639564704895038,
+        23.5,
+        11.639564704895038
+      ]
+    ],
+    "revised_tab_support_arms": 3,
+    "additional_xy_clearance_mm": 0.25,
+    "part_bounds_mm": [
+      [
+        -17.5,
+        -12.81043529510498,
+        0.0
+      ],
+      [
+        17.5,
+        12.81043529510498,
+        8.230050325393677
+      ]
+    ],
+    "part_volume_mm3": 1142.7364593168415,
+    "plate_center_xy_mm": [
+      459,
+      135
+    ],
+    "x_rotation_radians": 3.141592653589793,
+    "plate_index": 2,
+    "plate_origin_xy_mm": [
+      324,
+      0
+    ]
+  },
+  "Mount_A": {
+    "support_volume_mm3": 847.7399591500802,
+    "removable_components": 4,
+    "targeted_clip_supports": 0,
+    "minimum_designed_top_gap_mm": 0.2,
+    "rib_width_mm": 0.44,
+    "rib_row_pitch_mm": 2.4,
+    "base_height_mm": 0.36,
+    "pull_tabs_bounds": [
+      [
+        18.95000000000003,
+        -3.1402540206909073,
+        23.5,
+        0.8597459793090927
+      ],
+      [
+        -2.2999999999999865,
+        -19.140254020690918,
+        1.7000000000000135,
+        -14.390254020690918
+      ],
+      [
+        -1.8999999999999861,
+        14.509745979309105,
+        2.100000000000014,
+        19.140254020690918
+      ],
+      [
+        -23.5,
+        -3.1402540206909073,
+        -18.75,
+        0.8597459793090927
+      ]
+    ],
+    "revised_tab_support_arms": 3,
+    "additional_xy_clearance_mm": 0.25,
+    "part_bounds_mm": [
+      [
+        -17.5,
+        -13.140254020690918,
+        0.0
+      ],
+      [
+        17.5,
+        13.140254020690918,
+        14.534990310668949
+      ]
+    ],
+    "part_volume_mm3": 3537.4136576465576,
+    "plate_center_xy_mm": [
+      783,
+      135
+    ],
+    "x_rotation_radians": 3.141592653589793,
+    "plate_index": 3,
+    "plate_origin_xy_mm": [
+      648,
+      0
+    ]
+  },
+  "Mount_B": {
+    "support_volume_mm3": 766.9291582355655,
+    "removable_components": 4,
+    "targeted_clip_supports": 0,
+    "minimum_designed_top_gap_mm": 0.2,
+    "rib_width_mm": 0.44,
+    "rib_row_pitch_mm": 2.4,
+    "base_height_mm": 0.36,
+    "pull_tabs_bounds": [
+      [
+        18.95000000000003,
+        -3.1402540206909073,
+        23.5,
+        0.8597459793090927
+      ],
+      [
+        -2.2999999999999865,
+        -19.140254020690918,
+        1.7000000000000135,
+        -14.390254020690918
+      ],
+      [
+        -1.8999999999999861,
+        14.509745979309105,
+        2.100000000000014,
+        19.140254020690918
+      ],
+      [
+        -23.5,
+        -3.1402540206909073,
+        -18.75,
+        0.8597459793090927
+      ]
+    ],
+    "revised_tab_support_arms": 3,
+    "additional_xy_clearance_mm": 0.25,
+    "part_bounds_mm": [
+      [
+        -17.5,
+        -13.140254020690918,
+        0.0
+      ],
+      [
+        17.5,
+        13.140254020690918,
+        14.534990310668949
+      ]
+    ],
+    "part_volume_mm3": 3426.1626769692616,
+    "plate_center_xy_mm": [
+      135,
+      -189
+    ],
+    "x_rotation_radians": 3.141592653589793,
+    "plate_index": 4,
+    "plate_origin_xy_mm": [
+      0,
+      -324
+    ]
+  },
+  "Shared_Box_2": {
+    "support_volume_mm3": 419.2867012729091,
+    "removable_components": 1,
+    "targeted_clip_supports": 4,
+    "minimum_designed_top_gap_mm": 0.2,
+    "rib_width_mm": 0.44,
+    "rib_row_pitch_mm": 2.4,
+    "base_height_mm": 0.36,
+    "pull_tabs_bounds": [
+      [
+        -12.699999427795406,
+        16.100000000000026,
+        -8.699999427795406,
+        20.75
+      ]
+    ],
+    "additional_xy_clearance_mm": 0.25,
+    "part_bounds_mm": [
+      [
+        -13.84999942779541,
+        -14.75,
+        0.0
+      ],
+      [
+        13.84999942779541,
+        14.75,
+        26.949999809265137
+      ]
+    ],
+    "part_volume_mm3": 6755.17089168882,
+    "plate_center_xy_mm": [
+      459,
+      -189
+    ],
+    "x_rotation_radians": 0,
+    "plate_index": 5,
+    "plate_origin_xy_mm": [
+      324,
+      -324
+    ]
+  },
+  "Sliding_Cap": {
+    "support_needed": false,
+    "brim_width_mm": 3.0,
+    "part_bounds_mm": [
+      [
+        -15.149999618530273,
+        -2.6750011444091797,
+        0.0
+      ],
+      [
+        15.149999618530273,
+        2.6750011444091797,
+        30.099998474121094
+      ]
+    ],
+    "part_volume_mm3": 1683.9819006148236,
+    "plate_center_xy_mm": [
+      783,
+      -189
+    ],
+    "x_rotation_radians": 1.5707963267948966,
+    "plate_index": 6,
+    "plate_origin_xy_mm": [
+      648,
+      -324
+    ]
+  },
+  "Optional_Stringing_Test": {
+    "support_needed": false,
+    "brim_width_mm": 0,
+    "part_bounds_mm": [
+      [
+        -20.0,
+        -6.0,
+        0.0
+      ],
+      [
+        20.0,
+        6.0,
+        15.75
+      ]
+    ],
+    "part_volume_mm3": 862.4000053405762,
+    "plate_center_xy_mm": [
+      135,
+      -513
+    ],
+    "x_rotation_radians": 0,
+    "plate_index": 7,
+    "plate_origin_xy_mm": [
+      0,
+      -648
+    ]
+  }
+}

@@ -1,6 +1,8 @@
 # Current print files
 
-Use **[V27 printing recovery](v27_print_recovery/README.md)** after the reported V26 print failure. It keeps the same part geometry and adds brims, closer supports and first-layer adhesion changes. Print cover A first; physical reliability is unverified.
+**Latest: [V28 underside-clearance trials](v28_seating/README.md).** Print cover A first; B provides greater underside clearance. Both retain V26 A retaining geometry and V27 printing aids. Physical seating remains unverified.
+
+Archived **[V27 printing recovery](v27_print_recovery/README.md)** after the reported V26 print failure. It keeps the same part geometry and adds brims, closer supports and first-layer adhesion changes. Print cover A first; physical reliability is unverified.
 
 [V26 — controller retention trials](v26_retention/README.md) contains the unchanged hook geometry. Start with cover A in the small two-cover 3MF, then print the matching full mount only after checking physical fit. V26 retains V25 PETG print settings and the shared box/lid.
 

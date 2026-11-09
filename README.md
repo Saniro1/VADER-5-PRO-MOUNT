@@ -1,6 +1,10 @@
-# Vader 5 Pro detachable Box 2 mount — V27 printing recovery
+# Vader 5 Pro detachable Box 2 mount — V28 underside-clearance trials
 
-**Latest:** [V27 cover-test print recovery 3MF](print/v27_print_recovery/Vader5Pro_V27_Cover_Tests_Print_Recovery.3mf), with a 5 mm contacting brim, closer custom supports and a warmer first-layer bed after a reported failed print. Part geometry is unchanged from V26. [Complete project and instructions](print/v27_print_recovery/README.md). Physical printing reliability remains unverified.
+**Latest:** [V28 small cover tests](print/v28_seating/Vader5Pro_V28_Underside_Clearance_Tests.3mf) add 0.15/0.30 mm of controller-facing shell clearance after the owner reported the cover still sits high. Both retain V26 A hook geometry and V27 printing aids. Print plate 1 / A first. [Complete project, changes and limits](print/v28_seating/README.md). Physical seating remains unverified.
+
+## V27 — printing recovery
+
+ [V27 cover-test print recovery 3MF](print/v27_print_recovery/Vader5Pro_V27_Cover_Tests_Print_Recovery.3mf), with a 5 mm contacting brim, closer custom supports and a warmer first-layer bed after a reported failed print. Part geometry is unchanged from V26. [Complete project and instructions](print/v27_print_recovery/README.md). Physical printing reliability remains unverified.
 
 ## V26 — retention geometry trials
 

@@ -1,0 +1,372 @@
+{
+  "physical_fit_verified": false,
+  "OEM_dimensions_available": false,
+  "baseline": "V26 A for BOTH variants",
+  "hypothesis": "Controller-facing shell interference may prevent seating; exact contact is unmeasured.",
+  "variants": {
+    "A": {
+      "underside_relief_mm": 0.15,
+      "protected_hook_regions_preserved_with_0p004mm_simplification": true,
+      "sampled_min_vertical_shell_thickness_mm": 1.1737683852610221,
+      "samples": [
+        {
+          "xy": [
+            -10,
+            -5
+          ],
+          "vertical_thickness_mm": 1.1758364142510427
+        },
+        {
+          "xy": [
+            -10,
+            -2
+          ],
+          "vertical_thickness_mm": 1.2251087626259825
+        },
+        {
+          "xy": [
+            -10,
+            0
+          ],
+          "vertical_thickness_mm": 1.4648881469812824
+        },
+        {
+          "xy": [
+            -10,
+            2
+          ],
+          "vertical_thickness_mm": 1.7532545874983807
+        },
+        {
+          "xy": [
+            -10,
+            5
+          ],
+          "vertical_thickness_mm": 2.0102080231625816
+        },
+        {
+          "xy": [
+            -5,
+            -5
+          ],
+          "vertical_thickness_mm": 1.1767358143034254
+        },
+        {
+          "xy": [
+            -5,
+            -2
+          ],
+          "vertical_thickness_mm": 1.2218768115007101
+        },
+        {
+          "xy": [
+            -5,
+            0
+          ],
+          "vertical_thickness_mm": 1.4590056853384503
+        },
+        {
+          "xy": [
+            -5,
+            2
+          ],
+          "vertical_thickness_mm": 1.7656074187521433
+        },
+        {
+          "xy": [
+            -5,
+            5
+          ],
+          "vertical_thickness_mm": 2.0053439993249498
+        },
+        {
+          "xy": [
+            0,
+            -5
+          ],
+          "vertical_thickness_mm": 1.1737683852610221
+        },
+        {
+          "xy": [
+            0,
+            -2
+          ],
+          "vertical_thickness_mm": 1.2238091399812596
+        },
+        {
+          "xy": [
+            0,
+            0
+          ],
+          "vertical_thickness_mm": 1.4638417418994116
+        },
+        {
+          "xy": [
+            0,
+            2
+          ],
+          "vertical_thickness_mm": 1.7618035918958448
+        },
+        {
+          "xy": [
+            0,
+            5
+          ],
+          "vertical_thickness_mm": 2.0115161336528438
+        },
+        {
+          "xy": [
+            5,
+            -5
+          ],
+          "vertical_thickness_mm": 1.1741426664157792
+        },
+        {
+          "xy": [
+            5,
+            -2
+          ],
+          "vertical_thickness_mm": 1.222485308517486
+        },
+        {
+          "xy": [
+            5,
+            0
+          ],
+          "vertical_thickness_mm": 1.4652053445061615
+        },
+        {
+          "xy": [
+            5,
+            2
+          ],
+          "vertical_thickness_mm": 1.7600604097249555
+        },
+        {
+          "xy": [
+            5,
+            5
+          ],
+          "vertical_thickness_mm": 2.007109739981347
+        },
+        {
+          "xy": [
+            10,
+            -5
+          ],
+          "vertical_thickness_mm": 1.1778944231133721
+        },
+        {
+          "xy": [
+            10,
+            -2
+          ],
+          "vertical_thickness_mm": 1.2219068932581134
+        },
+        {
+          "xy": [
+            10,
+            0
+          ],
+          "vertical_thickness_mm": 1.4668712593435043
+        },
+        {
+          "xy": [
+            10,
+            2
+          ],
+          "vertical_thickness_mm": 1.7592449731582196
+        },
+        {
+          "xy": [
+            10,
+            5
+          ],
+          "vertical_thickness_mm": 2.0098074510999897
+        }
+      ]
+    },
+    "B": {
+      "underside_relief_mm": 0.3,
+      "protected_hook_regions_preserved_with_0p004mm_simplification": true,
+      "sampled_min_vertical_shell_thickness_mm": 1.0237683024439672,
+      "samples": [
+        {
+          "xy": [
+            -10,
+            -5
+          ],
+          "vertical_thickness_mm": 1.0258363434434568
+        },
+        {
+          "xy": [
+            -10,
+            -2
+          ],
+          "vertical_thickness_mm": 1.0751086672585508
+        },
+        {
+          "xy": [
+            -10,
+            0
+          ],
+          "vertical_thickness_mm": 1.3148880516138508
+        },
+        {
+          "xy": [
+            -10,
+            2
+          ],
+          "vertical_thickness_mm": 1.6032547305495282
+        },
+        {
+          "xy": [
+            -10,
+            5
+          ],
+          "vertical_thickness_mm": 1.8602081513671749
+        },
+        {
+          "xy": [
+            -5,
+            -5
+          ],
+          "vertical_thickness_mm": 1.0267357438173423
+        },
+        {
+          "xy": [
+            -5,
+            -2
+          ],
+          "vertical_thickness_mm": 1.0718767161332785
+        },
+        {
+          "xy": [
+            -5,
+            0
+          ],
+          "vertical_thickness_mm": 1.3090056754515818
+        },
+        {
+          "xy": [
+            -5,
+            2
+          ],
+          "vertical_thickness_mm": 1.6156075618032908
+        },
+        {
+          "xy": [
+            -5,
+            5
+          ],
+          "vertical_thickness_mm": 1.8553441276294045
+        },
+        {
+          "xy": [
+            0,
+            -5
+          ],
+          "vertical_thickness_mm": 1.0237683024439672
+        },
+        {
+          "xy": [
+            0,
+            -2
+          ],
+          "vertical_thickness_mm": 1.073809044613828
+        },
+        {
+          "xy": [
+            0,
+            0
+          ],
+          "vertical_thickness_mm": 1.3138418096731446
+        },
+        {
+          "xy": [
+            0,
+            2
+          ],
+          "vertical_thickness_mm": 1.6118037349469923
+        },
+        {
+          "xy": [
+            0,
+            5
+          ],
+          "vertical_thickness_mm": 1.86151626205716
+        },
+        {
+          "xy": [
+            5,
+            -5
+          ],
+          "vertical_thickness_mm": 1.0241425712677525
+        },
+        {
+          "xy": [
+            5,
+            -2
+          ],
+          "vertical_thickness_mm": 1.0724852131500544
+        },
+        {
+          "xy": [
+            5,
+            0
+          ],
+          "vertical_thickness_mm": 1.315205249138728
+        },
+        {
+          "xy": [
+            5,
+            2
+          ],
+          "vertical_thickness_mm": 1.6100605527761047
+        },
+        {
+          "xy": [
+            5,
+            5
+          ],
+          "vertical_thickness_mm": 1.8571098684855247
+        },
+        {
+          "xy": [
+            10,
+            -5
+          ],
+          "vertical_thickness_mm": 1.0278943279300101
+        },
+        {
+          "xy": [
+            10,
+            -2
+          ],
+          "vertical_thickness_mm": 1.0719067978906818
+        },
+        {
+          "xy": [
+            10,
+            0
+          ],
+          "vertical_thickness_mm": 1.3168711639760744
+        },
+        {
+          "xy": [
+            10,
+            2
+          ],
+          "vertical_thickness_mm": 1.6092451162093688
+        },
+        {
+          "xy": [
+            10,
+            5
+          ],
+          "vertical_thickness_mm": 1.859807579704027
+        }
+      ]
+    }
+  }
+}
