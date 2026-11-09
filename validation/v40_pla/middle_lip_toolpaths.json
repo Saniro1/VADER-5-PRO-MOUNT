@@ -1,0 +1,32 @@
+{
+  "checks": [
+    {
+      "layer_Z": 17.24,
+      "lip_material_fraction": 1.0,
+      "undercut_air_filled_fraction": 0.0
+    },
+    {
+      "layer_Z": 17.36,
+      "lip_material_fraction": 1.0,
+      "undercut_air_filled_fraction": 0.0
+    },
+    {
+      "layer_Z": 17.48,
+      "lip_material_fraction": 1.0,
+      "undercut_air_filled_fraction": 0.0
+    },
+    {
+      "layer_Z": 17.6,
+      "lip_material_fraction": 1.0,
+      "undercut_air_filled_fraction": 0.0
+    },
+    {
+      "layer_Z": 17.72,
+      "lip_material_fraction": 1.0,
+      "undercut_air_filled_fraction": 0.0
+    }
+  ],
+  "physical_capture_verified": false,
+  "footprint_model": "Swept line-width disks with round end caps; estimates planned deposited material, not a physical measurement.",
+  "meaning": "Material exists in the end lip and an air pocket remains beneath it in sampled central layers."
+}

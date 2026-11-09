@@ -1,0 +1,36 @@
+{
+  "baseline": "V39",
+  "owner_feedback": "Top now clips fine; middle curve starts too late, is tight, and lacks an end catch",
+  "profile_method": "Cubic centerline begins curving at shell edge; 0.5 mm offset each side makes 1 mm nominal normal wall.",
+  "middle_width_mm": 5,
+  "projection_mm": 4.5,
+  "terminal_lip_overhang_mm": 0.65,
+  "terminal_cap_Z_mm": [
+    2.15,
+    2.75
+  ],
+  "entry_tip_chamfer_mm": 0.15,
+  "positive_overlap_with_retained_shell_mm3": 2.3648284113717355,
+  "unchanged_top_shell_root_max_sampled_error_mm": 0.003107926005560403,
+  "profile_control_points": {
+    "root": [
+      -10.860000038146973,
+      3.75
+    ],
+    "first_curve_end": [
+      -14.260000038146973,
+      1.0
+    ],
+    "tip_center": [
+      -15.460000038146973,
+      2.45
+    ]
+  },
+  "shell_mm": [
+    35,
+    24
+  ],
+  "overall_mm": 28.5,
+  "physical_fit_force_strength_verified": false,
+  "exact_OEM_profile": false
+}

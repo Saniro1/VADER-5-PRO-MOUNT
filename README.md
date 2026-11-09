@@ -1,4 +1,8 @@
-# Vader 5 Pro detachable Box 2 mount — V39 rounded shell corners
+# Vader 5 Pro detachable Box 2 mount — V40 curved middle latch
+
+**Latest:** [V40 small PLA cover test](print/v40_pla/Vader5Pro_V40_PLA_Curved_Middle_Latch_Test.3mf) replaces the middle block/ramp with an edge-start curved tongue and defined free-end retaining lip. The top hooks reported to work and the rounded V39 shell remain. [All parts on one plate](print/v40_pla/Vader5Pro_V40_All_Parts_One_Plate_PLA.3mf) · [Profile comparison and print instructions](print/v40_pla/README.md). Middle-latch fit and strength remain physically unverified.
+
+## V39 — top retention reported working; prior middle profile
 
 **Latest:** [V39 small PLA cover test](print/v39_pla/Vader5Pro_V39_PLA_Rounded_Edges_Test.3mf) rounds the shell corners to a nominal 2 mm radius and adds a 0.25 mm side-edge lead-in after the owner reported squared edges block full sliding. V38 clip dimensions and reinforced roots remain. [All parts on one plate](print/v39_pla/Vader5Pro_V39_All_Parts_One_Plate_PLA.3mf) · [Changes and print instructions](print/v39_pla/README.md). Physical seating remains unverified.
 
